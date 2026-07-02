@@ -1,0 +1,12 @@
+- Deadline : 06 juil 2026
+
+
+- Product taxonomy
+    - product generator script done
+    - pdocuts + names (AI generated) + images (AI generated)
+
+
+Next :
+    - Users generation
+    - Behavior data generation
+    - 2 models coded (model + train + evaluate)
