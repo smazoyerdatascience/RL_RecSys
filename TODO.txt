@@ -2,8 +2,8 @@
 
 
 - Product taxonomy
-    - product generator script done
-    - pdocuts + names (AI generated) + images (AI generated)
+    - product generator script done [DONE]
+    - products + names (AI generated) + images (AI generated) [DONE]
 
 
 Next :

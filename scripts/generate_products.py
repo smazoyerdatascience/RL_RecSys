@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 
-PRODUCT_TO_GENERATE_COUNT = 600  # Number of generated products
+PRODUCT_TO_GENERATE_COUNT = 500  # Number of generated products
 
 
 # Taxonomy
@@ -64,6 +64,7 @@ def generate_product(category: str, sub_category: str, config: dict) -> dict:
 
     return {
         "product_id": str(uuid.uuid4()),
+        "name": None,
         "category": category,
         "subcategory": sub_category,
         "price": price,
@@ -71,11 +72,11 @@ def generate_product(category: str, sub_category: str, config: dict) -> dict:
         "popularity": round(popularity, 4),
         "is_new": random.random() < 0.15,  # 15% new arrivals
         "discount_pct": random.choice([0, 0, 0, 10, 20, 30]),  # 0 is the majority
-        "image_url": np.nan,
+        "filename": None,
     }
 
 
-def generate_catalog(n: int = 600) -> list[dict]:
+def generate_catalog(n: int = 500) -> list[dict]:
     """
     Generate a product catalog of n products, distributed across categories
     according to their weight and randomly assigned a subcategory.
@@ -83,8 +84,8 @@ def generate_catalog(n: int = 600) -> list[dict]:
     products = []
     for category, config in CATEGORIES.items():
         count = round(n * config["weight"])
-        for _ in range(count):
-            sub_category = random.choice(SUB_CATEGORIES[category])
+        for i, _ in enumerate(range(count)):
+            sub_category = SUB_CATEGORIES[category][i % len(SUB_CATEGORIES[category])]
             products.append(generate_product(category, sub_category, config))
 
     # Adjustment if the total != n because of rounding
@@ -101,6 +102,5 @@ if __name__ == "__main__":
     df = pd.DataFrame(catalog)
 
     df.to_csv("data/products.csv", index=False)
-    df.to_json("data/products.json", orient="records", indent=2)
 
     print(df.groupby("category")[["price", "popularity"]].mean().round(3))
