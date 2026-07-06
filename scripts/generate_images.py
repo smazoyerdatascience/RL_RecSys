@@ -155,7 +155,7 @@ SUBCATEGORY_PROMPTS = {
             "isolated on pure white background, bright studio lighting, vibrant colors"
         ),
     },
-    "food_gourmet": {
+    "food": {
         "snacks": (
             "professional gourmet food e-commerce product photo of {name}, "
             "artisan packaging or natural presentation, appetizing close-up, "

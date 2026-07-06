@@ -10,18 +10,24 @@ PRODUCT_TO_GENERATE_COUNT = 500  # Number of generated products
 
 
 # Taxonomy
+# TODO
+# Price range must be change from price/cat to price /subcat
+# food_gourmet cat changes to food -> Update the dataset
+
+
+# price_range = (min_price, max_price), base_ctr = base click-through rate, weight = proportion of products in this category
 CATEGORIES = {
     "electronics": {
         "price_range": (50, 1200),
         "base_ctr": 0.08,
         "weight": 0.18,
-    },  # price_range = (min_price, max_price), base_ctr = base click-through rate, weight = proportion of products in this category
+    },
     "fashion": {"price_range": (15, 300), "base_ctr": 0.12, "weight": 0.22},
     "home_deco": {"price_range": (20, 500), "base_ctr": 0.07, "weight": 0.14},
     "sports": {"price_range": (25, 600), "base_ctr": 0.09, "weight": 0.12},
     "beauty": {"price_range": (10, 150), "base_ctr": 0.14, "weight": 0.10},
     "books": {"price_range": (8, 45), "base_ctr": 0.06, "weight": 0.09},
-    "food_gourmet": {"price_range": (5, 80), "base_ctr": 0.11, "weight": 0.08},
+    "food": {"price_range": (5, 80), "base_ctr": 0.11, "weight": 0.08},
     "toys_games": {"price_range": (12, 200), "base_ctr": 0.10, "weight": 0.07},
 }
 
@@ -33,7 +39,7 @@ SUB_CATEGORIES = {
     "sports": ["fitness_equipment", "outdoor_gear", "sportswear"],
     "beauty": ["skincare", "makeup", "haircare"],
     "books": ["fiction", "non-fiction", "children_books"],
-    "food_gourmet": ["snacks", "beverages", "gourmet_foods"],
+    "food": ["snacks", "beverages", "gourmet_foods"],
     "toys_games": ["board_games", "action_figures", "puzzles"],
 }
 
