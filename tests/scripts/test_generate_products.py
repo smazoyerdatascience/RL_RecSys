@@ -39,8 +39,9 @@ class TestTaxonomyData:
 
     def test_price_ranges_are_valid(self):
         for category, config in gp.CATEGORIES.items():
-            low, high = config["price_range"]
-            assert 0 < low < high, category
+            for subcategory, price_range in config["subcategories"].items():
+                low, high = price_range
+                assert 0 < low < high, f"{category}/{subcategory}"
 
     def test_each_category_has_non_empty_unique_subcategories(self):
         for category, sub_categories in gp.SUB_CATEGORIES.items():
@@ -83,7 +84,7 @@ class TestGenerateProduct:
         assert product["category"] == category
         assert product["subcategory"] == sub_category
 
-        low, high = config["price_range"]
+        low, high = config["subcategories"][sub_category]
         assert low <= product["price"] <= high
         assert product["price_bucket"] == gp.price_bucket(product["price"])
 
@@ -93,7 +94,7 @@ class TestGenerateProduct:
         assert product["discount_pct"] in {0, 10, 20, 30}
 
     def test_price_and_popularity_are_clipped_to_config_bounds(self, monkeypatch):
-        config = {"price_range": (10, 20), "base_ctr": 0.5}
+        config = {"subcategories": {"smartphones": (10, 20)}, "base_ctr": 0.5}
         monkeypatch.setattr(np.random, "lognormal", lambda mean, sigma: 1_000_000)
         monkeypatch.setattr(np.random, "normal", lambda loc, scale: 999)
 

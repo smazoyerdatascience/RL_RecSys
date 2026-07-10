@@ -1,12 +1,14 @@
-- Deadline : 06 juil 2026
+- Deadline : 13  juil 2026
 
 
-- Product scripts [TODO]
-    - product generator script done [In Progress]
-        - Move price range from cat to subcat
-        - Changed cat name frood_grourmet to food
 
-    - products + names (AI generated) + images (AI generated) [DONE]
+- model
+    - context computation
+    - linUCB (init + update + action + save weights)
+
+- API
+    - get recommendation
+    - post reward
 
 
 

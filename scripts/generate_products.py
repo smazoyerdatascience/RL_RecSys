@@ -10,37 +10,88 @@ PRODUCT_TO_GENERATE_COUNT = 500  # Number of generated products
 
 
 # Taxonomy
-# TODO
-# Price range must be change from price/cat to price /subcat
-# food_gourmet cat changes to food -> Update the dataset
-
-
-# price_range = (min_price, max_price), base_ctr = base click-through rate, weight = proportion of products in this category
+# base_ctr = base click-through rate, weight = proportion of products in this category
 CATEGORIES = {
     "electronics": {
-        "price_range": (50, 1200),
         "base_ctr": 0.08,
         "weight": 0.18,
+        "subcategories": {
+            "smartphones": (150, 1_200),
+            "laptops": (400, 2_500),
+            "tablets": (120, 1_400),
+            "headphones": (25, 600),
+            "cameras": (150, 2_000),
+        },
     },
-    "fashion": {"price_range": (15, 300), "base_ctr": 0.12, "weight": 0.22},
-    "home_deco": {"price_range": (20, 500), "base_ctr": 0.07, "weight": 0.14},
-    "sports": {"price_range": (25, 600), "base_ctr": 0.09, "weight": 0.12},
-    "beauty": {"price_range": (10, 150), "base_ctr": 0.14, "weight": 0.10},
-    "books": {"price_range": (8, 45), "base_ctr": 0.06, "weight": 0.09},
-    "food": {"price_range": (5, 80), "base_ctr": 0.11, "weight": 0.08},
-    "toys_games": {"price_range": (12, 200), "base_ctr": 0.10, "weight": 0.07},
+    "fashion": {
+        "base_ctr": 0.12,
+        "weight": 0.22,
+        "subcategories": {
+            "clothing": (15, 250),
+            "shoes": (30, 350),
+            "accessories": (10, 150),
+            "jewelry": (20, 800),
+        },
+    },
+    "home_deco": {
+        "base_ctr": 0.07,
+        "weight": 0.14,
+        "subcategories": {
+            "furniture": (80, 2_000),
+            "lighting": (25, 500),
+            "decorative_items": (10, 300),
+        },
+    },
+    "sports": {
+        "base_ctr": 0.09,
+        "weight": 0.12,
+        "subcategories": {
+            "fitness_equipment": (40, 1_200),
+            "outdoor_gear": (25, 800),
+            "sportswear": (15, 250),
+        },
+    },
+    "beauty": {
+        "base_ctr": 0.14,
+        "weight": 0.10,
+        "subcategories": {
+            "skincare": (10, 180),
+            "makeup": (8, 120),
+            "haircare": (8, 100),
+        },
+    },
+    "books": {
+        "base_ctr": 0.06,
+        "weight": 0.09,
+        "subcategories": {
+            "fiction": (8, 35),
+            "non-fiction": (12, 60),
+            "children_books": (6, 30),
+        },
+    },
+    "food": {
+        "base_ctr": 0.11,
+        "weight": 0.08,
+        "subcategories": {
+            "snacks": (2, 20),
+            "beverages": (3, 35),
+            "gourmet_foods": (8, 100),
+        },
+    },
+    "toys_games": {
+        "base_ctr": 0.10,
+        "weight": 0.07,
+        "subcategories": {
+            "board_games": (15, 100),
+            "action_figures": (10, 150),
+            "puzzles": (8, 80),
+        },
+    },
 }
 
 
 SUB_CATEGORIES = {
-    "electronics": ["smartphones", "laptops", "tablets", "headphones", "cameras"],
-    "fashion": ["clothing", "shoes", "accessories", "jewelry"],
-    "home_deco": ["furniture", "lighting", "decorative_items"],
-    "sports": ["fitness_equipment", "outdoor_gear", "sportswear"],
-    "beauty": ["skincare", "makeup", "haircare"],
-    "books": ["fiction", "non-fiction", "children_books"],
-    "food": ["snacks", "beverages", "gourmet_foods"],
-    "toys_games": ["board_games", "action_figures", "puzzles"],
+    category: list(config["subcategories"]) for category, config in CATEGORIES.items()
 }
 
 
@@ -60,7 +111,7 @@ def price_bucket(price: float) -> int:
 
 
 def generate_product(category: str, sub_category: str, config: dict) -> dict:
-    low, high = config["price_range"]
+    low, high = config["subcategories"][sub_category]
     # Log-normal distribution: realistic, long tail towards higher prices
     price = round(np.random.lognormal(mean=np.log((low + high) / 2), sigma=0.4), 2)
     price = float(np.clip(price, low, high))

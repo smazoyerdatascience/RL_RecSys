@@ -1,501 +1,501 @@
 product_id,name,category,subcategory,price,price_bucket,popularity,is_new,discount_pct,filename
-c10723fb-33a9-49b5-9977-734b3d84962d,,electronics,smartphones,319.78,3,0.0662,True,0,
-0a433b3e-f4df-4f0a-a063-efe175dcb466,,electronics,laptops,1010.28,4,0.1217,False,0,
-5b6a86df-7fc0-4073-821a-d3e3e035b4e3,,electronics,tablets,626.69,4,0.1231,False,0,
-c667b801-47d6-4209-8064-e5208cea3ff4,,electronics,headphones,643.21,4,0.0804,False,0,
-b872ee26-39eb-4c72-b39d-936b5d77f4fe,,electronics,cameras,384.66,3,0.084,False,0,
-84e64f6b-e73e-46e9-a7cf-2b5e6d722b14,,electronics,smartphones,665.66,4,0.1041,False,0,
-7c80fe42-a538-43f7-8545-0884d6adfa10,,electronics,laptops,677.11,4,0.0441,False,30,
-52e2eb4c-c01e-44dc-b00c-df77248e3863,,electronics,tablets,576.64,4,0.0922,False,20,
-f5a3c586-6b8f-4827-a96b-8f0d5c294afa,,electronics,headphones,649.57,4,0.0993,False,0,
-2babe19f-ee5b-44d6-9b9b-a5c015b4268c,,electronics,cameras,507.01,4,0.0992,False,20,
-59a9edd1-fd2d-44d9-be0a-49f2f0afaa3a,,electronics,smartphones,844.31,4,0.0685,False,0,
-cf4afa97-7a2e-4451-a904-1acbb119c0d5,,electronics,laptops,714.27,4,0.1282,False,0,
-4af8ebd7-2638-48a9-9cfa-b72c86a470a6,,electronics,tablets,834.95,4,0.0409,True,30,
-8c84216a-60e7-476f-b48b-ee97671f6f24,,electronics,headphones,1139.8,4,0.0782,False,0,
-58641967-8ce7-4398-87f6-60ab2a82fc76,,electronics,cameras,425.4,3,0.1077,False,30,
-9b76bc0f-5b24-4a88-985f-df7871fb331d,,electronics,smartphones,741.56,4,0.0807,False,20,
-c51b36c3-2bb5-4420-86fb-327d2242e506,,electronics,laptops,814.67,4,0.0887,False,20,
-40cec1f5-8e57-4a19-9c9d-b8f7635b8f5b,,electronics,tablets,190.85,2,0.1095,False,0,
-1e31006f-185a-42da-98fe-e38242e9c04f,,electronics,headphones,864.64,4,0.1015,False,0,
-c4c9d767-8f9b-4deb-9c91-04b7c33af91e,,electronics,cameras,716.82,4,0.0769,False,0,
-b8a09831-93cb-4981-bbd1-406a4aff6a41,,electronics,smartphones,443.4,3,0.0984,False,0,
-8a6f2ba8-b6c8-4e65-bb9a-28bfb8699512,,electronics,laptops,338.96,3,0.1068,True,30,
-c5e8f85c-c685-4af3-8de0-2136af7f987e,,electronics,tablets,998.76,4,0.0472,False,30,
-f9d8e301-d925-46c1-bd25-91b1bb6cdc4f,,electronics,headphones,472.81,3,0.108,True,0,
-a5da9f44-567e-4e65-8f91-79c5c894d39e,,electronics,cameras,467.34,3,0.0748,True,20,
-360d79bd-76d1-4d4d-b8e6-47648828fba7,,electronics,smartphones,470.9,3,0.0733,False,10,
-ec8b6a3a-965c-4c48-92c8-ff01ee98f7b3,,electronics,laptops,659.51,4,0.1005,True,10,
-febdb927-ff45-468c-b135-ea2050901e77,,electronics,tablets,403.18,3,0.0969,False,20,
-07d18330-1956-4f45-bf7b-04c5eb567506,,electronics,headphones,697.84,4,0.0906,False,10,
-f92baa9c-b4d7-45ff-bc2f-2a562ed1fea7,,electronics,cameras,924.38,4,0.0788,False,0,
-b06ec315-b11c-44db-832c-61eddd97eb19,,electronics,smartphones,565.71,4,0.0621,False,10,
-e36832cb-8af2-403e-992c-f4c782200533,,electronics,laptops,813.35,4,0.1226,False,10,
-dc274d11-7559-48c0-95a2-9eec2819e913,,electronics,tablets,679.48,4,0.0686,False,20,
-ed161ec7-e416-489c-9d3e-545490ac7846,,electronics,headphones,721.51,4,0.0939,False,0,
-a9ab4d0d-59b9-46dc-bdb4-c894734fa86a,,electronics,cameras,470.41,3,0.0228,False,0,
-08eb9011-362d-4c72-b965-9a9af382d207,,electronics,smartphones,810.5,4,0.078,False,0,
-0394ed02-7b0a-46b2-a7cf-b696898d299b,,electronics,laptops,487.55,3,0.01,False,30,
-3e447a00-7324-47f5-a577-59a5e7c0482f,,electronics,tablets,731.72,4,0.0895,False,0,
-92373262-d597-42ab-88a7-32d61dc6f6d0,,electronics,headphones,1200.0,4,0.063,False,0,
-dda4c327-0553-4e19-bd5c-0d4a7e7baddf,,electronics,cameras,480.65,3,0.0942,False,0,
-0d63fed6-baae-4ffc-8ef2-faa9bedcd91b,,electronics,smartphones,916.07,4,0.0415,False,30,
-f313d4f6-0fc7-4526-97ac-d7b0cbd321e6,,electronics,laptops,633.72,4,0.119,False,0,
-9f5c3a83-65e7-472d-bce3-4fc531d7ae26,,electronics,tablets,603.05,4,0.107,False,0,
-b11ad016-5fc5-40c8-8d14-7523279cfa65,,electronics,headphones,717.51,4,0.0497,False,30,
-3133fbb7-7818-40e5-9ebf-76e1f81fccfa,,electronics,cameras,481.78,3,0.132,False,20,
-13fbeb0c-e434-4f56-aa41-5056d1a381fe,,electronics,smartphones,943.31,4,0.0461,False,10,
-28a31198-b364-408e-8972-1aa8c378926c,,electronics,laptops,414.44,3,0.0837,False,10,
-e8875f5a-36b7-493f-97c3-d37c09a3ced8,,electronics,tablets,769.5,4,0.0473,False,0,
-3b0750ca-abf4-4d75-96c4-15013c7bad68,,electronics,headphones,373.5,3,0.0761,False,20,
-a58ab23f-9ed5-4c1a-80da-a2d6d648e476,,electronics,cameras,575.7,4,0.0603,False,0,
-a90bf660-b48a-43fd-9762-6a505e4bf375,,electronics,smartphones,511.76,4,0.0968,True,0,
-665518a6-5f23-4be6-b309-a1f8e25c6195,,electronics,laptops,350.78,3,0.0866,False,0,
-21084b03-0590-4888-9bc3-482db2bcd5ca,,electronics,tablets,615.49,4,0.1004,False,30,
-702daab0-5a05-461c-8862-c0527ea7e3cf,,electronics,headphones,709.97,4,0.1021,False,0,
-216556c5-28f4-486d-be41-684fb748c06e,,electronics,cameras,302.01,3,0.0677,False,0,
-8fd1adba-36d3-4da4-abdd-0d390a7336d5,,electronics,smartphones,1113.52,4,0.0817,False,0,
-cccbf3eb-a324-4c8d-a824-38b295862038,,electronics,laptops,751.84,4,0.0628,False,20,
-08b4d272-e225-4c41-a2c1-2ed0358c210b,,electronics,tablets,681.21,4,0.087,False,0,
-72db74c2-2b3f-4459-9cab-e7a18889075c,,electronics,headphones,835.46,4,0.0601,False,0,
-6d8dc5cd-bc18-48f3-91fd-4efa7a1ceb1b,,electronics,cameras,391.19,3,0.0774,False,30,
-378a253d-158d-4e51-b66f-605efade7838,,electronics,smartphones,819.07,4,0.0326,False,10,
-059c9d33-6661-498e-8604-3be7e751f06a,,electronics,laptops,766.36,4,0.1012,True,10,
-e23a50b3-0bea-4aa1-b9f8-ccb1d9057c80,,electronics,tablets,808.05,4,0.0826,False,30,
-a889a1e5-a8ee-43ee-b358-75faf41aa453,,electronics,headphones,714.69,4,0.1249,False,10,
-d290fbe7-900d-4b49-8b1a-c643a459a5a0,,electronics,cameras,1187.99,4,0.0551,True,0,
-4f24785e-cf81-42f7-84ab-3b8c235d9ae2,,electronics,smartphones,698.75,4,0.1146,False,30,
-d5e53143-49c1-428c-806c-93cf4ffc7d3b,,electronics,laptops,333.73,3,0.1186,True,0,
-9bcd89e6-9fcf-473c-99b3-bd057d00fdb6,,electronics,tablets,766.35,4,0.0595,False,0,
-171ae6a5-8122-4412-9612-60222af23298,,electronics,headphones,445.76,3,0.0922,False,10,
-57fae3fe-df86-48ad-b5a9-ef34b8022186,,electronics,cameras,686.84,4,0.0831,False,0,
-87a0fae7-2e58-4c21-8bf2-57bbf4bf95e2,,electronics,smartphones,814.69,4,0.0798,True,10,
-1201ef3d-a6cc-473e-9e60-34fba4a664f7,,electronics,laptops,459.95,3,0.1027,False,10,
-cc43ad60-0f9b-4fef-a84a-00385199c0a1,,electronics,tablets,887.15,4,0.1114,False,0,
-9f744e36-4d4e-4a0c-99ce-d2b8adde5898,,electronics,headphones,243.68,3,0.0511,False,0,
-0244f159-af97-4515-8f7d-c3234a5df8d5,,electronics,cameras,393.9,3,0.0532,False,20,
-1c9325bd-70ca-49a6-865d-e0d58572dd76,,electronics,smartphones,609.94,4,0.0552,False,10,
-c960a5db-542c-4b1b-a03a-cfbff9177a83,,electronics,laptops,632.77,4,0.0719,True,20,
-d29dfd16-8e09-4c41-b711-cda65565e0a7,,electronics,tablets,351.99,3,0.0812,False,0,
-5aaafccb-9cb3-4d0d-a466-87c05b8d5397,,electronics,headphones,995.19,4,0.13,False,0,
-e5855b26-3889-4653-9c36-482f418b539c,,electronics,cameras,924.15,4,0.069,False,0,
-d2fdb613-ffaa-43be-a409-e85e5c550664,,electronics,smartphones,635.79,4,0.0975,True,20,
-74d84450-4830-43f8-af75-d56c01c3827f,,electronics,laptops,517.7,4,0.1311,False,0,
-f6e2135c-60e3-47fd-9678-dc8dd7af9326,,electronics,tablets,685.73,4,0.1001,False,10,
-de4a74b2-bd79-46ba-b112-167355bc8767,,electronics,headphones,234.45,3,0.0613,False,10,
-005706f4-0bcd-44d8-a284-2a4f88258709,,electronics,cameras,495.04,3,0.0983,False,0,
-5bd5ab00-c4b3-4327-a5f8-13842b8997cd,,electronics,smartphones,1048.47,4,0.0296,False,0,
-6f56e5cc-757b-451d-9b03-958b199cd1a0,,electronics,laptops,386.52,3,0.0693,False,30,
-f6986789-28e2-4fe6-a4c1-b9716549fc60,,electronics,tablets,641.16,4,0.093,False,0,
-ade8a9c2-de2e-4030-89b3-3e84787cdebd,,electronics,headphones,872.43,4,0.0502,False,0,
-8f6f8621-05d8-474e-af88-853bc4508366,,electronics,cameras,420.69,3,0.0587,False,30,
-702bcf61-f853-479e-9b28-9d1961ff3ff5,,fashion,clothing,99.81,2,0.0953,False,0,
-b60770ac-3242-467f-bc6c-740443fb0e36,,fashion,shoes,170.77,2,0.135,False,20,
-4c58df78-bca8-4cae-ae9f-6f93bb954bc0,,fashion,accessories,155.36,2,0.1085,False,0,
-611fb8b6-4054-4ab1-a26f-815aa92663ee,,fashion,jewelry,155.89,2,0.1018,False,30,
-62645476-f994-405c-8c0d-b3cdd10c90a1,,fashion,clothing,214.94,3,0.1671,False,0,
-091fd21d-6aff-44a0-a374-a46047f54f03,,fashion,shoes,88.46,2,0.1437,False,30,
-74739cf6-2587-4feb-bf14-5ef9f79cf6fe,,fashion,accessories,228.68,3,0.0979,False,0,
-a6316782-2f29-43b4-afb6-fce52ecdf225,,fashion,jewelry,286.47,3,0.1207,False,10,
-080dc9d8-ed2b-4d3c-bfca-00cfa9753edb,,fashion,clothing,209.85,3,0.1022,False,20,
-28607bce-6b4c-4561-8b52-71f647894f19,,fashion,shoes,105.07,2,0.143,False,30,
-35c77808-18b2-41e7-bb5b-51f0593fccd5,,fashion,accessories,163.82,2,0.1359,False,0,
-9086e3a6-20df-4dd0-8238-bb27d7756256,,fashion,jewelry,228.0,3,0.1503,False,0,
-9b7de5dd-5aae-4865-a09c-729932ddc633,,fashion,clothing,140.93,2,0.1016,True,0,
-20bec438-0a60-490f-87d0-c9e1693658b5,,fashion,shoes,164.68,2,0.1688,False,10,
-495f2a22-fff0-4239-afea-3f045aab0fb8,,fashion,accessories,300.0,3,0.1218,False,0,
-e2be74a5-ebe5-4be4-a162-d562f329dd83,,fashion,jewelry,209.92,3,0.1079,False,0,
-a189a52c-ba7a-4cc3-9bc1-0ccd7b53229b,,fashion,clothing,153.77,2,0.1104,False,10,
-230948a4-6edb-4531-83c3-6146d202a5c3,,fashion,shoes,112.12,2,0.0433,False,0,
-f542dbe4-dfe7-4704-9e49-01cef8d09eba,,fashion,accessories,300.0,3,0.0917,False,10,
-b03676c7-c1f0-4644-9407-19f5a65c784b,,fashion,jewelry,153.04,2,0.1013,False,30,
-0dbae741-461d-4f5e-9683-d62a4e2b6440,,fashion,clothing,160.51,2,0.1415,False,10,
-6ef70c4f-bc1a-4097-b4f3-4987e1bec9f1,,fashion,shoes,300.0,3,0.1753,True,10,
-944c824b-97a0-4200-b3f1-792d23632a24,,fashion,accessories,185.65,2,0.0624,False,0,
-9b4d6f85-ffbc-41f0-b64b-23654cf9e954,,fashion,jewelry,118.3,2,0.1439,False,0,
-5bec4056-4f70-4a4e-b6e6-ff29ad93f852,,fashion,clothing,226.94,3,0.1248,False,10,
-320d9384-6e52-4a2f-8560-602d689b811b,,fashion,shoes,122.22,2,0.1519,True,30,
-2f07445f-2f6a-45d4-9ff3-d4b8b328bd8c,,fashion,accessories,213.71,3,0.1192,False,20,
-fab21c79-683d-4831-a5a9-d726b35c8d90,,fashion,jewelry,94.66,2,0.1093,True,30,
-ff5c76fd-3820-45b1-9074-db0a46dced08,,fashion,clothing,197.74,2,0.0893,False,0,
-508f6e24-75dc-45b4-981c-8d60f1c3f9ee,,fashion,shoes,52.45,1,0.1183,False,30,
-a5c618eb-a390-4a37-9216-cb9431c027d7,,fashion,accessories,140.35,2,0.1223,False,0,
-606d69e0-053b-4bf4-a077-b352cef756fc,,fashion,jewelry,210.42,3,0.1989,False,0,
-67d586c3-505a-4db2-9abe-6db60e6615ac,,fashion,clothing,63.63,1,0.104,False,0,
-b27ba008-9616-4538-a8a5-093f3c545fbf,,fashion,shoes,188.06,2,0.0703,False,0,
-ed7e08e5-3c6b-4c9f-b84d-cb0b7ce8584e,,fashion,accessories,95.55,2,0.0888,False,0,
-8bef3be0-fa8c-4699-baaa-14fe1fea6580,,fashion,jewelry,245.7,3,0.1342,False,0,
-decee308-e7be-4d1c-8052-f6d1773481a3,,fashion,clothing,296.08,3,0.1003,False,10,
-a29f7dd1-9ff4-4b61-9026-8e1080c95c31,,fashion,shoes,148.05,2,0.1447,False,10,
-22d49523-7b80-485c-9ead-8ad4ebc5d987,,fashion,accessories,173.44,2,0.1042,False,20,
-598bfa95-6359-4b93-bbf0-169d4b37c2b8,,fashion,jewelry,160.5,2,0.083,False,0,
-cff1653e-19e3-4208-99e5-38460039c4ac,,fashion,clothing,65.72,1,0.0584,False,20,
-423047eb-9931-485b-beb7-1853303f99d9,,fashion,shoes,172.68,2,0.0893,False,0,
-a9866f88-def2-4a16-8061-d5ad03865fef,,fashion,accessories,68.35,1,0.1354,False,10,
-6d1abede-dcc3-456d-af59-09b10ae293b6,,fashion,jewelry,139.74,2,0.1265,False,0,
-f377af05-164f-46de-9e9a-2cb36110c58e,,fashion,clothing,136.65,2,0.111,False,0,
-64550928-b368-4942-ba09-bd98d584dcfb,,fashion,shoes,62.01,1,0.0542,False,0,
-f9da6c96-c519-49c2-a0d1-8c1ffc66c218,,fashion,accessories,132.78,2,0.0838,False,20,
-acb87090-18b0-4a84-8311-ceaa60d679ae,,fashion,jewelry,140.77,2,0.1068,False,0,
-faedc43d-5947-4e81-9434-40093ca71767,,fashion,clothing,265.66,3,0.1475,False,0,
-a40ed2c6-89c8-4e51-ab33-e346ca4695ed,,fashion,shoes,113.04,2,0.1463,False,0,
-163e7aab-3aca-4866-a2f6-bb5efd2fe1eb,,fashion,accessories,118.97,2,0.1101,False,0,
-84946d6b-2bcf-4f94-98e8-6de6680c1aeb,,fashion,jewelry,100.65,2,0.0976,False,10,
-955208c3-50f6-4e4a-89fa-365d5aecbfa1,,fashion,clothing,174.89,2,0.1076,False,0,
-7f9e973e-9fc3-4d32-bea3-a0fe506083da,,fashion,shoes,78.11,2,0.1081,False,20,
-497897b8-e892-4cb7-8254-51c41b70740b,,fashion,accessories,171.05,2,0.1663,False,0,
-b69e8fa8-0ba5-4e16-b37a-a2350ecf94b4,,fashion,jewelry,158.13,2,0.0867,False,20,
-2a44e50f-ee61-4699-9b98-766054d5f2d3,,fashion,clothing,225.29,3,0.1097,True,0,
-1a6094ae-3118-4bd4-8a93-09bc9bef827f,,fashion,shoes,102.22,2,0.1188,False,0,
-a100ddf7-a874-40b5-8578-37da7f9493eb,,fashion,accessories,262.61,3,0.1455,True,0,
-6cb10545-0413-49ad-830d-c6591725f100,,fashion,jewelry,151.59,2,0.1317,False,30,
-4f23c2e7-afc5-4a30-9546-19db122358f5,,fashion,clothing,265.83,3,0.1234,False,20,
-24142078-6b9d-4ced-96ad-7ec8fdb86a40,,fashion,shoes,168.07,2,0.0988,False,0,
-7b9a1db3-4579-49bc-a31e-1c449f01279d,,fashion,accessories,128.73,2,0.1416,False,30,
-8a31ff13-bf27-4b1d-b79e-a9fa3c9ed679,,fashion,jewelry,115.92,2,0.1262,False,0,
-df9add81-2740-4b14-889e-4e9b3edd8f26,,fashion,clothing,157.23,2,0.1351,False,20,
-ac819c30-1335-4d4d-bc6a-d0aa9e65e6de,,fashion,shoes,115.48,2,0.1469,True,20,
-980957e1-2194-43db-b7fb-2fd1995250b0,,fashion,accessories,79.49,2,0.1302,True,0,
-85f5aa4b-f4e8-4622-bc34-eea4ca1357be,,fashion,jewelry,193.49,2,0.1278,False,0,
-99022bd2-7a5e-4570-a7df-233a15805eb6,,fashion,clothing,207.04,3,0.1486,False,20,
-aa29498e-3066-4eca-8aa0-a02cf77d4b68,,fashion,shoes,179.79,2,0.1325,False,30,
-0fb6654f-3cf0-4925-8588-ac651fd82e10,,fashion,accessories,204.92,3,0.0932,True,10,
-3db16e20-bbdc-427d-b8b5-3c89d21e7c6e,,fashion,jewelry,219.16,3,0.1481,False,10,
-6c8e4238-2a88-4475-81fe-fe8dd3c231b0,,fashion,clothing,170.55,2,0.1485,False,0,
-a4b24a40-ee64-48e3-8a97-b3697fdeecd6,,fashion,shoes,156.01,2,0.1135,False,0,
-b3b332ef-c9e0-4075-be7c-1eda5295f834,,fashion,accessories,177.75,2,0.1262,True,0,
-fea3699f-e3bf-4e99-9554-5ae3375f10e9,,fashion,jewelry,110.74,2,0.1226,False,30,
-eca3ad2e-756a-4a72-b4c4-1eb63ec74210,,fashion,clothing,154.84,2,0.1534,False,20,
-7b80abbc-60e7-4d8a-9d2c-988ce0b7b5c4,,fashion,shoes,82.97,2,0.1715,False,10,
-716cdcf0-9d17-44b1-a192-e5471c9c2c73,,fashion,accessories,153.77,2,0.1082,False,0,
-b08d67a6-b1db-4f49-a77f-ea1262e63ee1,,fashion,jewelry,173.02,2,0.1227,False,0,
-97df7173-e1f1-4e53-b09e-3d0bf96b0da2,,fashion,clothing,180.14,2,0.0883,False,30,
-a3dd4d5b-0fac-4331-8a1b-c05212a02719,,fashion,shoes,137.23,2,0.108,False,0,
-3f05f62d-4916-4d4d-864d-8cb172dd1416,,fashion,accessories,214.24,3,0.1354,False,10,
-9326957b-4608-4a16-9a6e-d1fe7723bad2,,fashion,jewelry,198.18,2,0.1276,False,30,
-abc99312-17ca-4d0d-84d4-3c3d408712ac,,fashion,clothing,153.38,2,0.1092,False,0,
-32547e90-9159-491c-8f3a-17ea736d8c2e,,fashion,shoes,256.2,3,0.1032,False,10,
-c23868e2-1376-43cc-83b8-499ba900c70e,,fashion,accessories,195.74,2,0.1034,False,0,
-6a160e71-7659-491e-a849-71f8450b09b6,,fashion,jewelry,110.18,2,0.1722,False,30,
-7b4ff883-e322-41be-9f90-2d5f3f70c9a8,,fashion,clothing,272.85,3,0.1188,False,0,
-8f7173ac-d2cc-41d5-be4f-ee36e2a2da78,,fashion,shoes,201.77,3,0.0696,False,0,
-8f713e50-9536-44d7-bf3d-f71077d1c56b,,fashion,accessories,213.1,3,0.1181,False,0,
-fee37e79-bca8-494c-9f71-06d244aa50d5,,fashion,jewelry,224.29,3,0.1214,False,20,
-4252255b-9a16-4b8f-8a2f-d6aebcbd7014,,fashion,clothing,300.0,3,0.0636,True,20,
-c0ae3c31-c755-453c-aee5-b78b98134404,,fashion,shoes,149.7,2,0.1464,False,0,
-77ca257b-fcc9-486f-9924-814b3aafcff0,,fashion,accessories,124.86,2,0.1778,True,0,
-e95c0774-9c54-4781-98e6-59910a64d50d,,fashion,jewelry,125.69,2,0.1491,False,0,
-b97c656f-f1c6-4302-b747-024ada03babc,,fashion,clothing,108.41,2,0.0987,True,0,
-e98f8a79-d6d2-4d7a-ac48-51ad15d7a0ff,,fashion,shoes,228.49,3,0.1727,False,10,
-c6f40b8d-bc05-4436-9c72-a6bd129ca239,,fashion,accessories,114.82,2,0.1395,False,0,
-1aaa0699-172b-4154-9a29-1e29e69261cc,,fashion,jewelry,162.78,2,0.1174,False,30,
-f0bed883-5bdf-463a-af96-eef0bd3062b2,,fashion,clothing,194.24,2,0.0939,False,0,
-03d5cbd5-6880-4011-89e2-1ba5175a7a39,,fashion,shoes,196.3,2,0.064,True,0,
-0c62f675-ee85-4954-b300-bd2295c7f161,,fashion,accessories,127.01,2,0.0925,False,20,
-88d48461-b6d1-4549-8594-323929cab202,,fashion,jewelry,188.23,2,0.0612,False,0,
-0841e5ac-3c2d-4e3d-baae-6199cd5877d7,,fashion,clothing,77.1,2,0.1261,False,10,
-e3c68abe-eadf-4e70-bedd-ba895bb00af5,,fashion,shoes,184.22,2,0.1401,False,20,
-aac00aa9-3a8e-4342-975f-83a53bbf400d,,fashion,accessories,129.9,2,0.0237,False,20,
-68c9471f-39f7-4605-bab5-df2707c80e46,,fashion,jewelry,195.85,2,0.1562,False,0,
-0c78713d-810e-4e8c-aa06-f243352f652e,,fashion,clothing,176.79,2,0.1025,False,20,
-e2f96d08-c38d-4b29-903d-e1f3da42142a,,fashion,shoes,159.75,2,0.1322,False,30,
-a3be0404-1a5b-4ec9-85fb-71675497ca6c,,home_deco,furniture,300.04,3,0.0497,False,0,
-afa84eda-bbd9-445e-b66e-de5cfa3c8f5a,,home_deco,lighting,343.28,3,0.0823,False,0,
-726a4835-f683-475a-b6c7-2ace90292286,,home_deco,decorative_items,354.23,3,0.0627,False,20,
-dcd70ca6-6634-4a9e-89ff-d5690830c038,,home_deco,furniture,330.83,3,0.0847,False,20,
-7fdd52fa-d5b8-4bf9-b4cc-6643f14d2004,,home_deco,lighting,338.19,3,0.1063,False,0,
-cf71597d-5818-4c97-9fc2-c37723722b03,,home_deco,decorative_items,227.81,3,0.09,False,30,
-8a3cd3e9-529c-4ac0-92d1-639a7009ec92,,home_deco,furniture,311.21,3,0.0919,False,0,
-eb912e40-6ec6-4612-b65d-92f1bd1f734e,,home_deco,lighting,355.36,3,0.0995,False,30,
-ba42f779-b30a-44e4-9ac6-237b92ae2d3f,,home_deco,decorative_items,188.9,2,0.1145,False,30,
-5fcf78ba-4a02-4bdf-8fac-8db919b32764,,home_deco,furniture,233.56,3,0.1,False,10,
-2ca66ff8-40ee-43c8-8fe4-51c3997c781d,,home_deco,lighting,283.74,3,0.0527,False,0,
-09be3bd6-b75c-485c-a2a4-246181a46bc5,,home_deco,decorative_items,296.09,3,0.0964,False,0,
-0b6ba461-dbb0-4431-acc7-f428478fa6e9,,home_deco,furniture,118.61,2,0.1017,True,0,
-7a309401-6872-411d-a30a-3a20fef8d4dd,,home_deco,lighting,348.15,3,0.0422,False,0,
-1d641c06-0abe-4e65-8970-e33152ef477b,,home_deco,decorative_items,161.23,2,0.0506,False,0,
-0ced6a48-bb93-491c-8a91-e9327d29ff4e,,home_deco,furniture,306.7,3,0.181,True,0,
-0ce050b9-7c42-4d19-b66e-58f2a4e395b5,,home_deco,lighting,246.51,3,0.1014,False,10,
-4a078a39-d8fc-4761-b327-f48e2d039536,,home_deco,decorative_items,244.49,3,0.0148,False,30,
-1db0626a-8f94-4de7-ae5f-2dd05d61885c,,home_deco,furniture,239.88,3,0.0154,False,0,
-35814eb3-1578-4389-9e1b-c9ef63a51270,,home_deco,lighting,500.0,4,0.0703,False,0,
-07f44713-6a4a-40ac-9bff-229f73eedafb,,home_deco,decorative_items,500.0,4,0.0792,False,20,
-28e5cde4-f3e4-41f3-89a9-cca6d61962d6,,home_deco,furniture,231.82,3,0.0934,False,0,
-662192a0-0d74-4aa2-8978-23ffed6567f7,,home_deco,lighting,132.72,2,0.0738,False,0,
-491d5d9e-55eb-488c-a395-1070ce00225a,,home_deco,decorative_items,204.05,3,0.0555,True,0,
-81bcb81f-8e7e-47d8-8269-8f525a2832fc,,home_deco,furniture,500.0,4,0.0623,False,20,
-34345d53-116a-470d-ac7e-360786e62a9a,,home_deco,lighting,229.38,3,0.0537,False,20,
-e29070b4-4a12-424d-a38e-a2ac8b696beb,,home_deco,decorative_items,205.87,3,0.1029,False,0,
-c4f24386-9c4c-4243-bb20-b9097f2a63f4,,home_deco,furniture,247.06,3,0.0519,False,0,
-4038d7de-84b7-46a7-a9de-f0c3a7de9165,,home_deco,lighting,109.95,2,0.0428,False,0,
-4e2ffbc7-a7ab-4047-9ee0-a83d2a613a3a,,home_deco,decorative_items,166.15,2,0.0445,False,0,
-b6e420bb-62f3-47de-84c2-4d1f97a4cf1d,,home_deco,furniture,389.13,3,0.1,True,0,
-82b873c2-f861-4fa0-9d55-34f0fcfc2039,,home_deco,lighting,500.0,4,0.0316,False,0,
-557bbbac-32ba-4694-aad7-441f83ba5bf8,,home_deco,decorative_items,263.97,3,0.0309,False,0,
-8a5c1850-93ae-423d-a522-0cfff44a7773,,home_deco,furniture,357.58,3,0.0445,False,10,
-1cecb671-16cd-48fd-b0ac-4b7f655092ab,,home_deco,lighting,170.07,2,0.1582,False,30,
-91b89c3b-d47a-407c-9191-6ca7179ef45a,,home_deco,decorative_items,276.13,3,0.0911,False,20,
-34450068-bbac-40d8-98b2-eddc9af6b903,,home_deco,furniture,500.0,4,0.0254,False,0,
-94b6667e-4951-4915-8e15-dc3f69d6676c,,home_deco,lighting,274.68,3,0.1379,False,30,
-7446ce1a-96f0-488f-92d7-fc51ae9edb4e,,home_deco,decorative_items,316.46,3,0.0851,True,0,
-18ed36f6-e10e-4f3c-9af5-7a289b04abf8,,home_deco,furniture,190.98,2,0.0637,False,10,
-7a326d52-3d68-4529-b3c1-d5fc07a23884,,home_deco,lighting,161.58,2,0.0689,True,0,
-6331dba7-2ba1-41dc-9ea1-baca182ebb73,,home_deco,decorative_items,454.89,3,0.096,False,10,
-e159e10e-1730-4c2c-9eae-1bcf67a53889,,home_deco,furniture,324.23,3,0.0883,False,10,
-3ccd7b6e-1d22-4ba5-a6c6-99ae8307a8e0,,home_deco,lighting,269.66,3,0.0967,False,0,
-2f9f1231-60ff-4a2e-8a98-2b3282392a38,,home_deco,decorative_items,148.68,2,0.1094,False,10,
-61f8a3a2-fd4c-44c3-a0e7-bfe37276dff7,,home_deco,furniture,417.78,3,0.1055,True,30,
-71908d14-c210-4f2f-8eb8-f354de52046e,,home_deco,lighting,148.74,2,0.0678,False,20,
-59a94b66-d0db-4387-b9b7-8ceaf5a57dd5,,home_deco,decorative_items,384.5,3,0.0688,False,10,
-66b241cf-8673-4586-959e-85cfb18d0490,,home_deco,furniture,153.7,2,0.0783,False,20,
-d6629420-294f-4bf7-b223-e051dd553c7a,,home_deco,lighting,159.63,2,0.0684,True,20,
-0c3ac49c-e098-48a3-8a31-5c64c92b4b33,,home_deco,decorative_items,500.0,4,0.0636,False,10,
-88f1610e-f54c-4f9f-8a2e-17673b6c934d,,home_deco,furniture,128.6,2,0.087,False,0,
-c2efa5ad-e7a9-4d0f-b2b5-320c2063e126,,home_deco,lighting,69.93,1,0.0831,True,10,
-1584e3b8-9b57-4834-9101-022da3aff8ed,,home_deco,decorative_items,231.94,3,0.0759,False,10,
-c529331e-ece8-4f2c-8a2e-06dbb423cbc2,,home_deco,furniture,462.64,3,0.0986,False,30,
-8f23b9b8-b9d6-427f-9120-bdd391b57453,,home_deco,lighting,255.29,3,0.0742,False,30,
-87643bdb-4e9d-480c-8e8e-098325bef6a7,,home_deco,decorative_items,195.03,2,0.07,False,0,
-aff325c1-7781-41a6-acf0-3e4d499fb836,,home_deco,furniture,500.0,4,0.0993,False,0,
-e89ac518-f29d-41e1-81a0-ca9fa4784005,,home_deco,lighting,274.06,3,0.0999,False,0,
-a3f1662b-a391-470f-8027-6b60c1f344ab,,home_deco,decorative_items,99.44,2,0.1197,False,0,
-8a7fce24-ecb7-4abe-8677-6b1377f1c8c1,,home_deco,furniture,373.99,3,0.0724,False,0,
-843dcd5b-a49a-48ce-a6a8-bb2a6627ad0f,,home_deco,lighting,500.0,4,0.0744,True,0,
-a865f7bc-d7a9-4acd-98dd-91d2540c613d,,home_deco,decorative_items,247.37,3,0.0724,False,20,
-8647f8d4-6f66-4afb-8898-b97f9f7bfa5e,,home_deco,furniture,269.23,3,0.0878,False,0,
-c476d149-0019-45b8-bc7d-ef97eff33910,,home_deco,lighting,333.91,3,0.0495,False,0,
-2b694164-6edb-4a02-b784-36160f0a2fea,,home_deco,decorative_items,117.69,2,0.0624,False,0,
-eed40c17-ffb0-44da-8b96-ef3861449f42,,home_deco,furniture,295.25,3,0.0702,True,10,
-68a793a8-484b-4641-a00a-c6e90fe5e965,,home_deco,lighting,491.91,3,0.0899,False,0,
-44a1a8bb-3187-4c08-b485-2dd6e18242bc,,home_deco,decorative_items,446.46,3,0.0698,False,30,
-386b0aeb-1a49-4b6f-b54a-64b860f15d87,,home_deco,furniture,278.55,3,0.0568,False,0,
-083e6ada-c58a-473e-9d58-889241071d93,,sports,fitness_equipment,322.39,3,0.1023,False,20,
-abd5b3fe-6a58-41f0-91e1-69e37fd5355b,,sports,outdoor_gear,243.49,3,0.1132,True,0,
-216a51d4-360f-41f1-a201-b719a7b40cbb,,sports,sportswear,256.6,3,0.1193,False,30,
-9e271791-0aeb-4e48-9496-84b99cd27da0,,sports,fitness_equipment,419.83,3,0.0532,False,20,
-9eacc3c4-2176-4bce-b3da-428c8702f03e,,sports,outdoor_gear,185.91,2,0.0557,False,0,
-413a1816-4a1f-44b7-a90e-36faa99ef4a8,,sports,sportswear,280.06,3,0.0836,True,20,
-2313ff51-d7d8-4c7b-969f-2442993a1086,,sports,fitness_equipment,356.33,3,0.1323,True,10,
-4cacdbeb-65be-4341-bc64-35166fa459b7,,sports,outdoor_gear,406.2,3,0.1309,False,30,
-3f6d32e6-c081-41d7-803e-f192bfe7d4c2,,sports,sportswear,268.98,3,0.0312,False,30,
-9eceedf6-5a04-4c46-8278-04a0c94a7ca8,,sports,fitness_equipment,230.85,3,0.0766,False,10,
-b27f99c8-a5f4-4b83-af8f-e40856f09a5e,,sports,outdoor_gear,382.46,3,0.0961,False,0,
-30328204-e041-405c-9c4c-a48f62040aa8,,sports,sportswear,306.18,3,0.1326,False,20,
-1388eb69-3e2b-4052-850d-fae19872f249,,sports,fitness_equipment,199.19,2,0.0492,False,10,
-be5c2be0-065e-4645-a5f4-f9ce289f7de2,,sports,outdoor_gear,247.3,3,0.1037,False,30,
-dfed4ff3-c7f0-4945-9343-49cd9091362b,,sports,sportswear,456.29,3,0.0762,False,20,
-bea6ab54-c776-4c02-9609-a2aa6d006d5d,,sports,fitness_equipment,276.11,3,0.0896,False,0,
-1205d6ae-e5af-4016-9a4b-c9c615385c97,,sports,outdoor_gear,600.0,4,0.0844,False,20,
-042a5d55-87e6-45b6-a0fe-6be8fbcb3b77,,sports,sportswear,271.39,3,0.124,False,0,
-d3d5e417-9559-47f0-a82a-c364ac0faffc,,sports,fitness_equipment,143.08,2,0.0864,False,10,
-adf53833-5169-433a-bbf0-2094813df351,,sports,outdoor_gear,336.18,3,0.0318,False,20,
-f794a65c-59f5-44b7-8269-985b170d8667,,sports,sportswear,324.72,3,0.0811,True,0,
-63e2bc00-3c43-40c8-bace-3608e5eb4864,,sports,fitness_equipment,318.6,3,0.0497,False,0,
-cb347283-2816-4969-adff-a19b59526477,,sports,outdoor_gear,295.49,3,0.1083,False,10,
-09426cae-3531-4515-876d-91c8dcf08066,,sports,sportswear,240.11,3,0.0279,False,10,
-01269ba0-fe2f-4603-9ea7-d9d8138e9a89,,sports,fitness_equipment,332.61,3,0.0847,False,20,
-c33abe04-3504-4524-b5e6-78087f07ae2a,,sports,outdoor_gear,314.55,3,0.0979,True,20,
-8512b04e-47cc-4047-836b-b8a074578b9c,,sports,sportswear,155.22,2,0.0957,False,0,
-c83ed98c-030d-453d-8e8f-8f7cae540231,,sports,fitness_equipment,301.88,3,0.0562,False,30,
-cc73f1ec-e774-421f-a1c4-24668ef1e50b,,sports,outdoor_gear,150.93,2,0.0493,True,20,
-8bb21feb-afb3-47d5-a921-d9d9223ba79d,,sports,sportswear,542.74,4,0.0368,False,10,
-389cf48c-980d-4768-a273-a6bc3014170b,,sports,fitness_equipment,340.55,3,0.0691,True,10,
-41f62197-d262-4c61-80fe-5c621e2b31f9,,sports,outdoor_gear,148.89,2,0.1408,False,0,
-81340631-3a03-40fb-b28e-ea60a6d9038c,,sports,sportswear,277.53,3,0.1126,False,10,
-0e0a498d-48f5-414e-aa0b-95d46988f315,,sports,fitness_equipment,235.02,3,0.1372,False,20,
-1d318b04-2df5-42d0-81ff-2ef443637c00,,sports,outdoor_gear,395.32,3,0.0853,True,30,
-805e07c2-6424-4868-90a6-eb48bd84fcf2,,sports,sportswear,451.98,3,0.0797,False,20,
-8ebdba38-43a7-42ae-9f0c-368685beb784,,sports,fitness_equipment,366.17,3,0.0521,False,0,
-f3eac40d-da0e-4deb-8583-c35997e175b9,,sports,outdoor_gear,250.87,3,0.1078,False,10,
-73052300-430c-4794-baab-06eb2422bbd4,,sports,sportswear,506.5,4,0.1318,False,10,
-1817e62e-20eb-4355-84a8-6a8323ee644f,,sports,fitness_equipment,239.37,3,0.0838,False,0,
-d577c25e-22ca-4568-96ff-19a48bdb31df,,sports,outdoor_gear,270.39,3,0.0642,False,0,
-1a41bcfc-e1ed-42f7-9d57-ddf1fd65adca,,sports,sportswear,219.97,3,0.0865,False,0,
-b0d1672b-c66a-49f3-9204-2b7146830cec,,sports,fitness_equipment,436.69,3,0.0987,True,30,
-e16d65cc-7ff1-4f52-bc28-67fc5906b827,,sports,outdoor_gear,235.58,3,0.0428,True,0,
-4dfdb395-3aa2-472f-bd00-fc5313db97ab,,sports,sportswear,412.62,3,0.113,True,0,
-33b0adfe-74ee-4d32-9375-dafdd334a412,,sports,fitness_equipment,169.26,2,0.0589,True,10,
-26ab026f-b5f2-4072-b59d-d6fed7d163c0,,sports,outdoor_gear,198.31,2,0.0941,False,0,
-0e0f7108-5079-412b-90a6-836ad7deb365,,sports,sportswear,300.53,3,0.0608,False,0,
-b4418fe0-e6ef-44a2-a96d-ff2f17b90533,,sports,fitness_equipment,255.62,3,0.1155,False,0,
-2213466e-6d15-47c8-b100-27d65d6b4f8d,,sports,outdoor_gear,265.7,3,0.0762,False,0,
-a4a7e788-f4cd-46e5-9c84-0258754b388e,,sports,sportswear,203.52,3,0.0795,False,20,
-87c7fe98-b0c6-4987-97f9-12b67de8912c,,sports,fitness_equipment,174.72,2,0.1055,False,0,
-7368a169-7008-4139-964c-78e24c43f6c2,,sports,outdoor_gear,287.95,3,0.0565,False,0,
-16d0a224-e32c-4461-9df4-b336ae9a66ba,,sports,sportswear,436.39,3,0.0648,False,0,
-f0784f9b-bd37-463b-8cc7-53f91de02d7e,,sports,fitness_equipment,600.0,4,0.1006,False,0,
-96c23f2f-052f-428c-a31c-00547826ba31,,sports,outdoor_gear,420.45,3,0.1391,False,0,
-8cc2885b-936c-411e-a397-759c835d5c0a,,sports,sportswear,444.29,3,0.0911,True,20,
-71e0b4c3-be68-4967-96e9-71f6fa45896b,,sports,fitness_equipment,600.0,4,0.1465,True,30,
-82ac80fc-1e3c-446e-8ef0-7cb3c6b0aac0,,sports,outdoor_gear,349.56,3,0.0474,False,10,
-f7a7e6ae-5347-4e20-9178-2b0d0fd20a5d,,sports,sportswear,306.91,3,0.0333,False,10,
-9a0186ba-bd81-4d7d-9f4f-73353f583fc8,,beauty,skincare,61.22,1,0.088,False,10,
-a1570c66-e8e9-4e7d-9a4c-e171ff7297e1,,beauty,makeup,103.58,2,0.1556,False,0,
-25dd84b7-bb97-4c4d-a2f7-bc2441f79035,,beauty,haircare,60.37,1,0.1359,False,30,
-1549853a-6302-446e-be7b-4e39af8bf347,,beauty,skincare,110.2,2,0.1805,False,10,
-c4b8663e-ca26-4fed-8fd4-048bdc416894,,beauty,makeup,139.3,2,0.1212,False,10,
-706ddffe-73fb-45f3-859c-780145ab812e,,beauty,haircare,120.39,2,0.1191,False,20,
-08415990-af49-41e5-a1c7-4ee68055e61d,,beauty,skincare,110.8,2,0.1756,False,10,
-bd8bf501-9acb-44ca-ba4d-d36771271bf9,,beauty,makeup,102.61,2,0.1244,False,10,
-4b5355e7-49b7-446d-9849-a320cf89320b,,beauty,haircare,108.57,2,0.1244,True,0,
-75934a7e-2b94-4403-8f2f-383bf73cdce6,,beauty,skincare,102.5,2,0.1052,False,0,
-24cd9d76-27e0-41ea-98d7-0516f2961490,,beauty,makeup,49.29,1,0.0893,False,0,
-7e9c6ca2-fd4b-4b47-8a00-2f0a5d670340,,beauty,haircare,73.09,1,0.1622,False,20,
-21d306e3-dbbe-4e4d-9753-930eb4260c22,,beauty,skincare,71.1,1,0.1322,True,10,
-bd4cb52a-8348-4668-9b38-b59e04b55c5d,,beauty,makeup,55.85,1,0.1352,False,0,
-deec1e42-2962-45f9-9d1e-abd7ec55b759,,beauty,haircare,90.35,2,0.0932,False,10,
-46a8260c-ac78-4b38-b0a3-85d56b83183d,,beauty,skincare,44.22,1,0.1194,False,10,
-4ede6c7d-e64b-486c-bfb4-7090557548e4,,beauty,makeup,111.99,2,0.1773,False,10,
-458234a8-6fbb-4624-beec-bca227b60214,,beauty,haircare,84.25,2,0.1818,False,20,
-66eec1d1-01ce-4eca-aed8-b18edd69c0f2,,beauty,skincare,64.05,1,0.1579,False,20,
-653deaaf-6922-4a7f-b061-dc158b20b065,,beauty,makeup,100.14,2,0.1503,False,10,
-6adcd699-7712-4f59-9a02-0aa10a73ac26,,beauty,haircare,51.52,1,0.1136,False,20,
-1c9532ec-798f-452d-a2c6-6f337b696c81,,beauty,skincare,58.52,1,0.1218,False,10,
-99f74a12-a8e9-423f-9481-55270aba562e,,beauty,makeup,150.0,2,0.1277,False,0,
-3a13dccb-7def-4863-88c9-8183a7b95abe,,beauty,haircare,35.24,1,0.1389,True,10,
-94cb13a0-567e-4d34-8b55-d79313d73dc1,,beauty,skincare,90.63,2,0.0913,True,20,
-9654a0e5-b75c-4120-9771-56dea1925e6c,,beauty,makeup,57.81,1,0.1123,False,0,
-649335e7-f6ab-46ff-97c5-70d36bb12f8f,,beauty,haircare,40.74,1,0.126,False,0,
-4b9e10c1-b832-491f-a84f-dcbf4ed66b20,,beauty,skincare,150.0,2,0.174,False,10,
-620e3887-7839-405b-9446-f8789c36008f,,beauty,makeup,54.13,1,0.1403,True,0,
-a9921903-15c9-474e-9ea1-423632641958,,beauty,haircare,23.57,0,0.1721,False,0,
-64042f3c-c2d1-4cd0-8214-9168588ad748,,beauty,skincare,82.12,2,0.1535,False,20,
-6d747174-bb0f-4afb-a21e-c8908248e2f8,,beauty,makeup,60.86,1,0.1535,False,30,
-a668f999-6626-4afb-93da-35462039f6d0,,beauty,haircare,65.26,1,0.1701,False,20,
-610e51c0-46ac-4494-8770-aa21db9ce943,,beauty,skincare,112.99,2,0.1215,False,0,
-49d52777-604f-4c45-addd-0bddf56bd220,,beauty,makeup,85.11,2,0.1427,False,30,
-5bc830d3-29f8-4900-a849-37c67735503c,,beauty,haircare,98.86,2,0.106,False,20,
-324b1c08-656e-4cd6-a39e-b0202c22a97c,,beauty,skincare,91.61,2,0.165,False,20,
-29a9e56a-96eb-4cb7-b6ec-2dc9d086b2e3,,beauty,makeup,75.04,2,0.1891,True,0,
-c14ad760-e5c2-49a4-b6e9-4618aab852ad,,beauty,haircare,59.27,1,0.1739,False,10,
-5b3d88ef-8cec-4bc5-b984-50cffa92bf8c,,beauty,skincare,106.15,2,0.1159,False,10,
-58fcbef6-8402-498d-af7c-ebcf9b92624a,,beauty,makeup,82.81,2,0.1143,False,0,
-34d96fcb-5348-4658-b1e6-2d3cc70d067c,,beauty,haircare,70.94,1,0.1489,False,0,
-094dbf1c-e833-4273-9d1d-f52e8abcb3ec,,beauty,skincare,64.67,1,0.1899,True,20,
-acf44847-0c2c-44aa-a4cf-890d0223c048,,beauty,makeup,69.81,1,0.16,False,20,
-33fc0f60-e0bf-4f7d-b890-d334c759702a,,beauty,haircare,92.33,2,0.1538,False,0,
-f7562fec-d688-4bc4-9862-9e66e23b9ca5,,beauty,skincare,93.73,2,0.1226,True,0,
-95bc2470-1223-47a5-b337-c42f7ee96c8d,,beauty,makeup,87.25,2,0.2074,False,0,
-6d4da9b7-d8d9-43f5-9766-1c0c6e09f31e,,beauty,haircare,42.89,1,0.1086,False,10,
-4c3b30a5-1dc8-4f64-b1f0-9e7004e903eb,,beauty,skincare,57.18,1,0.1192,False,0,
-4b02639f-089c-4410-ab01-f465cb6eeee6,,beauty,makeup,33.45,1,0.1542,False,30,
-72f2bc48-2ed6-4a64-b5b2-7b25518e04f0,,books,fiction,19.92,0,0.1062,False,0,
-62c1fa86-5069-4927-9982-506d2eb23b94,,books,non-fiction,45.0,1,0.0759,False,0,
-e444428a-da60-4884-b4ec-852f2a30f3f8,,books,children_books,21.33,0,0.0787,False,20,
-e3c7fe76-1a18-4025-9520-beee121b6d08,,books,fiction,23.37,0,0.01,False,30,
-c732a40e-c583-4cb3-9d98-5926fad9591a,,books,non-fiction,19.55,0,0.0182,False,0,
-be19cefa-abea-4f62-b963-694b2d17a39d,,books,children_books,16.6,0,0.0546,False,20,
-27c0353a-e53c-4422-bf1a-b2e20cbc2909,,books,fiction,19.02,0,0.0194,True,0,
-6bc86089-3a63-4fb6-8947-5b33339e9d4b,,books,non-fiction,14.0,0,0.1056,False,10,
-077136ab-6bf0-4fbc-ac62-bf101e0d4770,,books,children_books,29.61,1,0.0661,False,0,
-ef683256-f6b2-46f7-9947-00d57de6beb0,,books,fiction,38.0,1,0.057,False,0,
-a174f8c8-1dce-4c0c-96af-842aeac00d84,,books,non-fiction,35.4,1,0.047,False,20,
-be6b7f6f-1016-4e98-95f8-676590fa96c6,,books,children_books,19.74,0,0.0991,False,0,
-570c1cc0-3615-43b2-918a-fb1d3783f537,,books,fiction,30.81,1,0.0183,False,20,
-c3c03d5a-c6ad-44e2-88f3-76de8aa50aab,,books,non-fiction,43.38,1,0.0395,False,10,
-e945a459-0303-4629-afae-15ddb2c3c57e,,books,children_books,43.81,1,0.0345,False,20,
-6b3c9738-8289-433f-89f2-a01753147026,,books,fiction,44.51,1,0.0542,False,0,
-5d2a05ac-0eae-4631-9c03-b063bb647f04,,books,non-fiction,16.61,0,0.0918,False,0,
-3ce76b83-59a6-4cd4-ad76-fbf70b167d5a,,books,children_books,28.22,1,0.0565,False,0,
-9f2a1ae9-f9f5-4546-ad08-d24c71f83d5e,,books,fiction,30.89,1,0.0519,False,0,
-0eb535af-99ba-49e6-9cf6-d5a4d2f2e1d1,,books,non-fiction,45.0,1,0.111,False,0,
-8fff21cb-3494-42a4-8c09-00f7031fcb92,,books,children_books,29.8,1,0.1392,False,20,
-819b7110-a627-4605-a37a-64b41abce9c5,,books,fiction,29.74,1,0.0817,False,0,
-659cc6c3-8b9f-4c72-97e0-ad9dcd8d8bd5,,books,non-fiction,25.76,1,0.0791,False,20,
-b04407a3-f4f2-4fe2-b138-1ff18fafdcea,,books,children_books,32.11,1,0.0866,False,0,
-6d67403f-2362-40d5-8f84-d10aeb865240,,books,fiction,22.25,0,0.0899,False,0,
-1b0e7f3b-83b3-40e2-803f-4dd0806133ce,,books,non-fiction,45.0,1,0.0947,False,0,
-54e4f8c2-768a-4ac0-8c99-cd112d066109,,books,children_books,18.67,0,0.0594,False,20,
-db7d7499-d542-4497-8a05-b5f95550ef10,,books,fiction,45.0,1,0.0503,False,10,
-5b3f3d74-83e7-4835-84c7-de8d1d591b43,,books,non-fiction,15.65,0,0.0633,True,10,
-4299cc93-25cc-461c-8579-794bc95a896e,,books,children_books,22.06,0,0.01,False,30,
-1742a526-edf6-4c92-a9a2-7ff5b69fe6bf,,books,fiction,28.8,1,0.0878,False,0,
-1f5dc4d5-b0c4-4f5a-8892-90aa74184185,,books,non-fiction,29.57,1,0.0506,False,10,
-300b5559-493c-4ce9-9d33-97e10ede2a2c,,books,children_books,14.64,0,0.0268,False,0,
-58b1597a-ab59-4908-a001-4ede8b5e8276,,books,fiction,21.83,0,0.0376,True,20,
-7823eb6a-442d-4e49-979c-aae701cb8cb8,,books,non-fiction,22.19,0,0.028,False,30,
-cfa7dee2-8f76-4914-8985-f8009429dd00,,books,children_books,16.19,0,0.0845,True,20,
-88bde5df-0a13-48c3-9792-8a5e2eaa1dca,,books,fiction,12.69,0,0.1012,False,0,
-a587c2c2-1234-4f61-9fac-8231e809d675,,books,non-fiction,41.55,1,0.0608,False,20,
-57fce8d4-21cb-4975-bf05-efbd5ab4deee,,books,children_books,23.75,0,0.0665,False,20,
-0e5fc096-a4d5-4786-bd18-ebe52e5c0aa1,,books,fiction,27.88,1,0.0364,True,30,
-1b4bff1a-f385-4934-bb92-6119b0e0d619,,books,non-fiction,22.77,0,0.0967,False,0,
-f56a4aa2-57b6-44df-ba34-468eede3fe24,,books,children_books,40.09,1,0.0501,False,0,
-05d98d11-7ffc-4b9c-a7b7-e680e16cfe15,,books,fiction,19.51,0,0.0626,False,0,
-1073467e-2922-480f-a667-f7b567825547,,books,non-fiction,17.55,0,0.0372,False,0,
-81c03163-d865-4f69-b54b-1a2b93d27b14,,books,children_books,39.05,1,0.0552,False,30,
-e8c92fd5-b290-49e0-ae44-5e7d1de8597b,,food_gourmet,snacks,45.12,1,0.1175,False,30,
-c2b69c4b-b09c-4600-9032-34d5056240a7,,food_gourmet,beverages,41.22,1,0.0907,False,30,
-37b5c1c4-1643-4680-ba05-50615d782f2a,,food_gourmet,gourmet_foods,40.65,1,0.1268,False,20,
-e5010cc2-dbb7-412d-97b9-3de235d44d5a,,food_gourmet,snacks,43.48,1,0.0939,False,30,
-42b5f424-dada-4497-a50e-3b2622a30495,,food_gourmet,beverages,34.63,1,0.0673,True,30,
-ec407c97-14f0-44d5-bc54-886f1ca78470,,food_gourmet,gourmet_foods,48.93,1,0.1063,False,0,
-4da4596b-1fd1-4fa1-a3fd-8792a02f619d,,food_gourmet,snacks,43.02,1,0.1354,False,0,
-84909992-ef38-4212-9e3e-2834921b3de9,,food_gourmet,beverages,17.74,0,0.111,False,0,
-825f9723-6cca-4273-8097-2350feba3290,,food_gourmet,gourmet_foods,73.81,1,0.0836,False,10,
-b89a30ac-86bd-42fe-83f8-6e1baec66e8a,,food_gourmet,snacks,62.17,1,0.0942,False,0,
-0391e212-b533-4b4b-be90-48c3dd6fb5ee,,food_gourmet,beverages,43.39,1,0.117,False,0,
-008cc9a9-28b0-4b5e-8069-14f924993adf,,food_gourmet,gourmet_foods,50.04,1,0.0965,False,30,
-99f2641c-ab00-41ce-815b-db6da24f34b0,,food_gourmet,snacks,80.0,2,0.0968,False,30,
-2dfd9843-9350-426f-ad60-1d90dc4f7706,,food_gourmet,beverages,48.54,1,0.1499,True,10,
-e60d3f96-9490-4e50-b595-1330e342ec10,,food_gourmet,gourmet_foods,21.51,0,0.1133,False,0,
-f74e523e-5519-4834-9719-d1d00dacf91e,,food_gourmet,snacks,13.06,0,0.067,False,30,
-b407ab64-e0d3-4365-b47e-324a930bfc26,,food_gourmet,beverages,54.25,1,0.1052,False,10,
-30ff9470-e22c-4806-b2e6-cd9489b751bc,,food_gourmet,gourmet_foods,47.27,1,0.1163,False,10,
-36d062a1-f621-4f96-a134-4af8aca5c881,,food_gourmet,snacks,30.15,1,0.1332,False,20,
-b7bcd1e5-c65e-466d-a7f2-90fdde644c6a,,food_gourmet,beverages,31.06,1,0.1381,True,30,
-59e9f3de-bc73-4f5c-b164-b8ed40fe366f,,food_gourmet,gourmet_foods,35.05,1,0.1363,False,0,
-9b88e8b5-2b9c-4ea1-9168-a61211ca9875,,food_gourmet,snacks,23.33,0,0.1366,False,0,
-5a6ea577-71e6-407e-9bfe-ff4d9484fb02,,food_gourmet,beverages,29.81,1,0.0617,True,0,
-0819927c-0b57-4cd8-a2df-1105977f08f3,,food_gourmet,gourmet_foods,80.0,2,0.092,False,30,
-cf1e2048-d8a3-41f3-b82b-77e3825df3e7,,food_gourmet,snacks,40.87,1,0.1396,False,20,
-91dfd71a-a412-4f5f-85d6-42147be32f38,,food_gourmet,beverages,57.18,1,0.1502,False,0,
-9180621d-a337-4395-8353-b6542f783fd0,,food_gourmet,gourmet_foods,57.63,1,0.1289,False,0,
-40d18b75-0c81-4c53-b32d-36ada3e36021,,food_gourmet,snacks,60.84,1,0.0923,False,10,
-73f2f754-5784-4bce-b8ce-6507e4f5fa0b,,food_gourmet,beverages,37.16,1,0.0975,False,0,
-670eb780-8978-494f-8dab-d65ec174a1ac,,food_gourmet,gourmet_foods,40.33,1,0.095,False,10,
-7faf2970-9756-4d54-b647-46d8662ba736,,food_gourmet,snacks,54.5,1,0.1191,False,0,
-60ed3b2f-b8d6-46ab-a98f-c76705d0aacd,,food_gourmet,beverages,53.62,1,0.1217,True,0,
-033c11e3-c3f0-48ba-bdd0-e028fb9ebd0b,,food_gourmet,gourmet_foods,60.08,1,0.0736,False,20,
-5ad371ea-98e4-487e-9969-9c007de3f00c,,food_gourmet,snacks,58.01,1,0.1423,False,10,
-ebb3e5ab-f1f1-45df-9ff6-c475b99aec16,,food_gourmet,beverages,58.84,1,0.1322,False,0,
-7d2b9f37-97c5-49ab-9a80-a02c2c37b315,,food_gourmet,gourmet_foods,33.59,1,0.0807,False,30,
-58954440-b2dd-4e73-9d3e-f786f34ffd4e,,food_gourmet,snacks,41.42,1,0.1237,False,0,
-e880ea72-9b75-4bfd-82d1-243a65a3ae65,,food_gourmet,beverages,50.28,1,0.1147,True,10,
-7733208e-3292-432f-acc6-5366a150cc06,,food_gourmet,gourmet_foods,63.52,1,0.0901,False,0,
-ea2f21f8-2c3e-4c2b-b02e-0417345c666e,,food_gourmet,snacks,75.36,2,0.1072,False,0,
-9eaab9b0-1f00-411a-97dc-7c61925b339e,,toys_games,board_games,160.9,2,0.0825,True,20,
-97496bc0-cfe5-425b-bcc6-ac106607a383,,toys_games,action_figures,200.0,3,0.0762,True,0,
-256543b1-3e3a-4e61-9ace-eb7a8b95cebc,,toys_games,puzzles,84.62,2,0.1139,True,30,
-ab409a5e-d4e1-49ac-b901-28d9c841033c,,toys_games,board_games,61.83,1,0.0819,False,10,
-eaa0ea66-3283-4185-86c8-8d0d241d2e41,,toys_games,action_figures,121.8,2,0.0892,False,30,
-1eb3bfb2-f07d-400c-9e99-58e6a945c3ca,,toys_games,puzzles,200.0,3,0.0802,False,0,
-d3f4d197-7a14-48b6-9cd2-00d1b10cd18c,,toys_games,board_games,200.0,3,0.0914,False,0,
-6f7b811e-572c-43df-a4fd-3a9d5785b048,,toys_games,action_figures,64.39,1,0.0865,False,0,
-e020e707-fd52-48c6-901d-2c2366df07e9,,toys_games,puzzles,97.79,2,0.1154,False,0,
-a222afbe-e870-4ca1-8c46-020c29c9f097,,toys_games,board_games,61.86,1,0.1275,False,0,
-dfa9bfc3-6b47-4f64-9892-cd6fffd64540,,toys_games,action_figures,74.44,1,0.1013,False,20,
-fd50e09d-5612-486b-861b-de1430d402b0,,toys_games,puzzles,108.85,2,0.0709,True,10,
-77aafb03-a491-455a-b028-d8fa76b8c39c,,toys_games,board_games,74.93,1,0.0449,False,0,
-244926fb-9f76-448a-8cf2-2b62449948d5,,toys_games,action_figures,127.97,2,0.0636,False,30,
-44fe004f-885c-4ed4-acbb-95742ac5881a,,toys_games,puzzles,200.0,3,0.0886,False,10,
-e85f7991-fb25-417c-9d39-6ce9581b8801,,toys_games,board_games,52.85,1,0.0426,False,10,
-652de457-a0ce-4c4f-8c7d-fdce4ef9aa3f,,toys_games,action_figures,100.71,2,0.1099,False,30,
-215a5c55-e5d4-4d42-9e24-f0eb8e2c4036,,toys_games,puzzles,97.57,2,0.1316,False,0,
-aaacb155-5591-4e14-83b6-6fa750a93023,,toys_games,board_games,78.22,2,0.1088,False,0,
-bdc152d3-e56d-43c1-ad5c-35401071ee2b,,toys_games,action_figures,176.16,2,0.036,False,0,
-d66780dc-05db-4864-97a0-560f035e0f63,,toys_games,puzzles,200.0,3,0.0935,False,0,
-09959246-53f2-4695-8957-cb64d3648b81,,toys_games,board_games,73.86,1,0.0828,False,20,
-89fbd8b1-5314-4086-9838-158f648910f1,,toys_games,action_figures,137.91,2,0.0979,False,0,
-d495b0e7-1744-4246-a9b2-9ef25779739b,,toys_games,puzzles,58.47,1,0.1073,True,20,
-fbf9b276-1023-4a95-8138-b4fb47bf5bb8,,toys_games,board_games,55.47,1,0.1351,False,0,
-f5b40c6f-754c-4656-9b63-2e433dd04666,,toys_games,action_figures,144.72,2,0.0361,False,10,
-c6fd879a-8ed7-476e-a62d-57fbc65d1c23,,toys_games,puzzles,54.61,1,0.0751,False,30,
-ee06a780-397a-4d4c-a483-3e8a3338cc2f,,toys_games,board_games,103.13,2,0.0682,False,0,
-8d5c8eb1-c3f6-4e12-a023-83a3b2e15b85,,toys_games,action_figures,136.83,2,0.1303,False,0,
-d81f7ab7-c8a7-440c-81df-eca06d35f61e,,toys_games,puzzles,90.18,2,0.1408,False,0,
-5ba7e8f2-653d-439e-81a0-be290b384405,,toys_games,board_games,103.03,2,0.1179,False,30,
-0000c528-d74e-4ee2-b953-213eb4b22f44,,toys_games,action_figures,109.67,2,0.1201,False,10,
-a675a510-bc88-4127-9404-284c8a2af9db,,toys_games,puzzles,105.4,2,0.1134,True,10,
-3c346dc5-9891-4854-9b35-e74eb52fef65,,toys_games,board_games,121.4,2,0.1019,False,0,
-62c1b98f-1664-4f2f-bc87-b392aff995fa,,toys_games,action_figures,120.11,2,0.1327,False,0,
+c10723fb-33a9-49b5-9977-734b3d84962d,Voltra X9 Pro,electronics,smartphones,762.5,4,0.0662,True,0,c10723fb-33a9-49b5-9977-734b3d84962d.png
+0a433b3e-f4df-4f0a-a063-efe175dcb466,Voltra Book Pro 14,electronics,laptops,956.54,4,0.1217,False,0,0a433b3e-f4df-4f0a-a063-efe175dcb466.png
+5b6a86df-7fc0-4073-821a-d3e3e035b4e3,Voltra Tab Pro 11,electronics,tablets,1026.08,4,0.1231,False,0,5b6a86df-7fc0-4073-821a-d3e3e035b4e3.png
+c667b801-47d6-4209-8064-e5208cea3ff4,Voltra Buds Elite,electronics,headphones,455.24,3,0.0804,False,0,c667b801-47d6-4209-8064-e5208cea3ff4.png
+b872ee26-39eb-4c72-b39d-936b5d77f4fe,Voltra Cam 4K Pro,electronics,cameras,492.58,3,0.084,False,0,b872ee26-39eb-4c72-b39d-936b5d77f4fe.png
+84e64f6b-e73e-46e9-a7cf-2b5e6d722b14,Voltra Slim 5G,electronics,smartphones,400.95,3,0.1041,False,0,84e64f6b-e73e-46e9-a7cf-2b5e6d722b14.png
+7c80fe42-a538-43f7-8545-0884d6adfa10,Voltra Slim Air 13,electronics,laptops,1526.08,4,0.0441,False,30,7c80fe42-a538-43f7-8545-0884d6adfa10.png
+52e2eb4c-c01e-44dc-b00c-df77248e3863,Voltra Pad Mini 8,electronics,tablets,669.69,4,0.0922,False,20,52e2eb4c-c01e-44dc-b00c-df77248e3863.png
+f5a3c586-6b8f-4827-a96b-8f0d5c294afa,Voltra Air Pro,electronics,headphones,310.41,3,0.0993,False,0,f5a3c586-6b8f-4827-a96b-8f0d5c294afa.png
+2babe19f-ee5b-44d6-9b9b-a5c015b4268c,Voltra Snap Ultra,electronics,cameras,764.22,4,0.0992,False,20,2babe19f-ee5b-44d6-9b9b-a5c015b4268c.png
+59a9edd1-fd2d-44d9-be0a-49f2f0afaa3a,Voltra Neo Ultra,electronics,smartphones,959.56,4,0.0685,False,0,59a9edd1-fd2d-44d9-be0a-49f2f0afaa3a.png
+cf4afa97-7a2e-4451-a904-1acbb119c0d5,Voltra Studio 16,electronics,laptops,1979.18,4,0.1282,False,0,cf4afa97-7a2e-4451-a904-1acbb119c0d5.png
+4af8ebd7-2638-48a9-9cfa-b72c86a470a6,Voltra Tab Ultra,electronics,tablets,780.34,4,0.0409,True,30,4af8ebd7-2638-48a9-9cfa-b72c86a470a6.png
+8c84216a-60e7-476f-b48b-ee97671f6f24,Voltra Studio Bass,electronics,headphones,490.54,3,0.0782,False,0,8c84216a-60e7-476f-b48b-ee97671f6f24.png
+58641967-8ce7-4398-87f6-60ab2a82fc76,Voltra Lens 50mm,electronics,cameras,1296.05,4,0.1077,False,30,58641967-8ce7-4398-87f6-60ab2a82fc76.png
+9b76bc0f-5b24-4a88-985f-df7871fb331d,Voltra Edge S,electronics,smartphones,478.66,3,0.0807,False,20,9b76bc0f-5b24-4a88-985f-df7871fb331d.png
+c51b36c3-2bb5-4420-86fb-327d2242e506,Voltra Ultra Book,electronics,laptops,1680.45,4,0.0887,False,20,c51b36c3-2bb5-4420-86fb-327d2242e506.png
+40cec1f5-8e57-4a19-9c9d-b8f7635b8f5b,Nexio Slate 10,electronics,tablets,517.89,4,0.1095,False,0,40cec1f5-8e57-4a19-9c9d-b8f7635b8f5b.png
+1e31006f-185a-42da-98fe-e38242e9c04f,Voltra Pod True,electronics,headphones,444.07,3,0.1015,False,0,1e31006f-185a-42da-98fe-e38242e9c04f.png
+c4c9d767-8f9b-4deb-9c91-04b7c33af91e,Voltra Shot Max,electronics,cameras,1053.74,4,0.0769,False,0,c4c9d767-8f9b-4deb-9c91-04b7c33af91e.png
+b8a09831-93cb-4981-bbd1-406a4aff6a41,Voltra One Max,electronics,smartphones,626.89,4,0.0984,False,0,b8a09831-93cb-4981-bbd1-406a4aff6a41.png
+8a6f2ba8-b6c8-4e65-bb9a-28bfb8699512,Nexio Slate 15,electronics,laptops,1104.28,4,0.1068,True,30,8a6f2ba8-b6c8-4e65-bb9a-28bfb8699512.png
+c5e8f85c-c685-4af3-8de0-2136af7f987e,Nexio Pad Air,electronics,tablets,1239.34,4,0.0472,False,30,c5e8f85c-c685-4af3-8de0-2136af7f987e.png
+f9d8e301-d925-46c1-bd25-91b1bb6cdc4f,Nexio Buds Air,electronics,headphones,293.77,3,0.108,True,0,f9d8e301-d925-46c1-bd25-91b1bb6cdc4f.png
+a5da9f44-567e-4e65-8f91-79c5c894d39e,Nexio Cam 360,electronics,cameras,905.73,4,0.0748,True,20,a5da9f44-567e-4e65-8f91-79c5c894d39e.png
+360d79bd-76d1-4d4d-b8e6-47648828fba7,Nexio Air 3,electronics,smartphones,586.32,4,0.0733,False,10,360d79bd-76d1-4d4d-b8e6-47648828fba7.png
+ec8b6a3a-965c-4c48-92c8-ff01ee98f7b3,Nexio Pro X1,electronics,laptops,1794.07,4,0.1005,True,10,ec8b6a3a-965c-4c48-92c8-ff01ee98f7b3.png
+febdb927-ff45-468c-b135-ea2050901e77,Nexio Tab S Pro,electronics,tablets,879.63,4,0.0969,False,20,febdb927-ff45-468c-b135-ea2050901e77.png
+07d18330-1956-4f45-bf7b-04c5eb567506,Nexio Sound Pro,electronics,headphones,368.59,3,0.0906,False,10,07d18330-1956-4f45-bf7b-04c5eb567506.png
+f92baa9c-b4d7-45ff-bc2f-2a562ed1fea7,Nexio Lens Pro,electronics,cameras,1277.17,4,0.0788,False,0,f92baa9c-b4d7-45ff-bc2f-2a562ed1fea7.png
+b06ec315-b11c-44db-832c-61eddd97eb19,Nexio Flip Pro,electronics,smartphones,1200.0,4,0.0621,False,10,b06ec315-b11c-44db-832c-61eddd97eb19.png
+e36832cb-8af2-403e-992c-f4c782200533,Nexio Creator 14,electronics,laptops,1232.44,4,0.1226,False,10,e36832cb-8af2-403e-992c-f4c782200533.png
+dc274d11-7559-48c0-95a2-9eec2819e913,Arktek Tab 11,electronics,tablets,619.2,4,0.0686,False,20,dc274d11-7559-48c0-95a2-9eec2819e913.png
+ed161ec7-e416-489c-9d3e-545490ac7846,Nexio Ear Fit,electronics,headphones,225.67,3,0.0939,False,0,ed161ec7-e416-489c-9d3e-545490ac7846.png
+a9ab4d0d-59b9-46dc-bdb4-c894734fa86a,Nexio Snap 12MP,electronics,cameras,1375.36,4,0.0228,False,0,a9ab4d0d-59b9-46dc-bdb4-c894734fa86a.png
+08eb9011-362d-4c72-b965-9a9af382d207,Nexio Spark 5G,electronics,smartphones,1060.29,4,0.078,False,0,08eb9011-362d-4c72-b965-9a9af382d207.png
+0394ed02-7b0a-46b2-a7cf-b696898d299b,Nexio Work Max,electronics,laptops,1385.39,4,0.01,False,30,0394ed02-7b0a-46b2-a7cf-b696898d299b.png
+3e447a00-7324-47f5-a577-59a5e7c0482f,Arktek Pad Ultra,electronics,tablets,543.08,4,0.0895,False,0,3e447a00-7324-47f5-a577-59a5e7c0482f.png
+92373262-d597-42ab-88a7-32d61dc6f6d0,Nexio Pod Ultra,electronics,headphones,224.71,3,0.063,False,0,92373262-d597-42ab-88a7-32d61dc6f6d0.png
+dda4c327-0553-4e19-bd5c-0d4a7e7baddf,Nexio Orbit Cam,electronics,cameras,1394.53,4,0.0942,False,0,dda4c327-0553-4e19-bd5c-0d4a7e7baddf.png
+0d63fed6-baae-4ffc-8ef2-faa9bedcd91b,Nexio Lite SE,electronics,smartphones,908.7,4,0.0415,False,30,0d63fed6-baae-4ffc-8ef2-faa9bedcd91b.png
+f313d4f6-0fc7-4526-97ac-d7b0cbd321e6,Arktek Swift 13,electronics,laptops,1801.87,4,0.119,False,0,f313d4f6-0fc7-4526-97ac-d7b0cbd321e6.png
+9f5c3a83-65e7-472d-bce3-4fc531d7ae26,Arktek Slate Pro,electronics,tablets,582.37,4,0.107,False,0,9f5c3a83-65e7-472d-bce3-4fc531d7ae26.png
+b11ad016-5fc5-40c8-8d14-7523279cfa65,Arktek Echo Pro,electronics,headphones,342.91,3,0.0497,False,30,b11ad016-5fc5-40c8-8d14-7523279cfa65.png
+3133fbb7-7818-40e5-9ebf-76e1f81fccfa,Arktek Noir Cam,electronics,cameras,1126.36,4,0.132,False,20,3133fbb7-7818-40e5-9ebf-76e1f81fccfa.png
+13fbeb0c-e434-4f56-aa41-5056d1a381fe,Nexio Nova X,electronics,smartphones,736.71,4,0.0461,False,10,13fbeb0c-e434-4f56-aa41-5056d1a381fe.png
+28a31198-b364-408e-8972-1aa8c378926c,Arktek Power 15,electronics,laptops,2054.71,4,0.0837,False,10,28a31198-b364-408e-8972-1aa8c378926c.png
+e8875f5a-36b7-493f-97c3-d37c09a3ced8,Zeltis Tab 9,electronics,tablets,831.11,4,0.0473,False,0,e8875f5a-36b7-493f-97c3-d37c09a3ced8.png
+3b0750ca-abf4-4d75-96c4-15013c7bad68,Arktek Bass Max,electronics,headphones,410.01,3,0.0761,False,20,3b0750ca-abf4-4d75-96c4-15013c7bad68.png
+a58ab23f-9ed5-4c1a-80da-a2d6d648e476,Arktek Drone Nano,electronics,cameras,1104.46,4,0.0603,False,0,a58ab23f-9ed5-4c1a-80da-a2d6d648e476.png
+a90bf660-b48a-43fd-9762-6a505e4bf375,Arktek Pulse 12,electronics,smartphones,757.76,4,0.0968,True,0,a90bf660-b48a-43fd-9762-6a505e4bf375.png
+665518a6-5f23-4be6-b309-a1f8e25c6195,Arktek Studio Pro,electronics,laptops,1866.53,4,0.0866,False,0,665518a6-5f23-4be6-b309-a1f8e25c6195.png
+21084b03-0590-4888-9bc3-482db2bcd5ca,Zeltis Pad Mini,electronics,tablets,424.31,3,0.1004,False,30,21084b03-0590-4888-9bc3-482db2bcd5ca.png
+702daab0-5a05-461c-8862-c0527ea7e3cf,Arktek Clip Mini,electronics,headphones,274.99,3,0.1021,False,0,702daab0-5a05-461c-8862-c0527ea7e3cf.png
+216556c5-28f4-486d-be41-684fb748c06e,Arktek Shot Elite,electronics,cameras,890.63,4,0.0677,False,0,216556c5-28f4-486d-be41-684fb748c06e.png
+8fd1adba-36d3-4da4-abdd-0d390a7336d5,Arktek Zero 5G,electronics,smartphones,522.78,4,0.0817,False,0,8fd1adba-36d3-4da4-abdd-0d390a7336d5.png
+cccbf3eb-a324-4c8d-a824-38b295862038,Arktek Elite 16,electronics,laptops,1298.89,4,0.0628,False,20,cccbf3eb-a324-4c8d-a824-38b295862038.png
+08b4d272-e225-4c41-a2c1-2ed0358c210b,Zeltis Slate Air,electronics,tablets,1382.01,4,0.087,False,0,08b4d272-e225-4c41-a2c1-2ed0358c210b.png
+72db74c2-2b3f-4459-9cab-e7a18889075c,Arktek Sound Elite,electronics,headphones,221.02,3,0.0601,False,0,72db74c2-2b3f-4459-9cab-e7a18889075c.png
+6d8dc5cd-bc18-48f3-91fd-4efa7a1ceb1b,Arktek Lens Wide,electronics,cameras,1583.49,4,0.0774,False,30,6d8dc5cd-bc18-48f3-91fd-4efa7a1ceb1b.png
+378a253d-158d-4e51-b66f-605efade7838,Arktek Noir S,electronics,smartphones,344.32,3,0.0326,False,10,378a253d-158d-4e51-b66f-605efade7838.png
+059c9d33-6661-498e-8604-3be7e751f06a,Zeltis Book Air,electronics,laptops,1268.21,4,0.1012,True,10,059c9d33-6661-498e-8604-3be7e751f06a.png
+e23a50b3-0bea-4aa1-b9f8-ccb1d9057c80,Lumex Tab Pro,electronics,tablets,811.12,4,0.0826,False,30,e23a50b3-0bea-4aa1-b9f8-ccb1d9057c80.png
+a889a1e5-a8ee-43ee-b358-75faf41aa453,Zeltis True Buds,electronics,headphones,395.08,3,0.1249,False,10,a889a1e5-a8ee-43ee-b358-75faf41aa453.png
+d290fbe7-900d-4b49-8b1a-c643a459a5a0,Zeltis Mirror Cam,electronics,cameras,1428.77,4,0.0551,True,0,d290fbe7-900d-4b49-8b1a-c643a459a5a0.png
+4f24785e-cf81-42f7-84ab-3b8c235d9ae2,Arktek Vision Pro,electronics,smartphones,927.09,4,0.1146,False,30,4f24785e-cf81-42f7-84ab-3b8c235d9ae2.png
+d5e53143-49c1-428c-806c-93cf4ffc7d3b,Zeltis Pro 14,electronics,laptops,1261.21,4,0.1186,True,0,d5e53143-49c1-428c-806c-93cf4ffc7d3b.png
+9bcd89e6-9fcf-473c-99b3-bd057d00fdb6,Lumex Pad 10,electronics,tablets,631.68,4,0.0595,False,0,9bcd89e6-9fcf-473c-99b3-bd057d00fdb6.png
+171ae6a5-8122-4412-9612-60222af23298,Zeltis Air Sound,electronics,headphones,440.45,3,0.0922,False,10,171ae6a5-8122-4412-9612-60222af23298.png
+57fae3fe-df86-48ad-b5a9-ef34b8022186,Zeltis Fold Cam,electronics,cameras,995.81,4,0.0831,False,0,57fae3fe-df86-48ad-b5a9-ef34b8022186.png
+87a0fae7-2e58-4c21-8bf2-57bbf4bf95e2,Arktek Snap X,electronics,smartphones,405.22,3,0.0798,True,10,87a0fae7-2e58-4c21-8bf2-57bbf4bf95e2.png
+1201ef3d-a6cc-473e-9e60-34fba4a664f7,Zeltis Ultra Slim,electronics,laptops,921.5,4,0.1027,False,10,1201ef3d-a6cc-473e-9e60-34fba4a664f7.png
+cc43ad60-0f9b-4fef-a84a-00385199c0a1,Pixon Tab Ultra,electronics,tablets,526.12,4,0.1114,False,0,cc43ad60-0f9b-4fef-a84a-00385199c0a1.png
+9f744e36-4d4e-4a0c-99ce-d2b8adde5898,Lumex Beat Pro,electronics,headphones,381.26,3,0.0511,False,0,9f744e36-4d4e-4a0c-99ce-d2b8adde5898.png
+0244f159-af97-4515-8f7d-c3234a5df8d5,Lumex Photo Pro,electronics,cameras,1138.02,4,0.0532,False,20,0244f159-af97-4515-8f7d-c3234a5df8d5.png
+1c9325bd-70ca-49a6-865d-e0d58572dd76,Zeltis Ultra 5,electronics,smartphones,889.72,4,0.0552,False,10,1c9325bd-70ca-49a6-865d-e0d58572dd76.png
+c960a5db-542c-4b1b-a03a-cfbff9177a83,Zeltis Creator 15,electronics,laptops,1222.21,4,0.0719,True,20,c960a5db-542c-4b1b-a03a-cfbff9177a83.png
+d29dfd16-8e09-4c41-b711-cda65565e0a7,Pixon Slate S,electronics,tablets,809.76,4,0.0812,False,0,d29dfd16-8e09-4c41-b711-cda65565e0a7.png
+5aaafccb-9cb3-4d0d-a466-87c05b8d5397,Lumex Pod Air,electronics,headphones,401.35,3,0.13,False,0,5aaafccb-9cb3-4d0d-a466-87c05b8d5397.png
+e5855b26-3889-4653-9c36-482f418b539c,Lumex Cam Ultra,electronics,cameras,949.88,4,0.069,False,0,e5855b26-3889-4653-9c36-482f418b539c.png
+d2fdb613-ffaa-43be-a409-e85e5c550664,Zeltis Fold 2,electronics,smartphones,810.31,4,0.0975,True,20,d2fdb613-ffaa-43be-a409-e85e5c550664.png
+74d84450-4830-43f8-af75-d56c01c3827f,Lumex Notebook S,electronics,laptops,1112.7,4,0.1311,False,0,74d84450-4830-43f8-af75-d56c01c3827f.png
+f6e2135c-60e3-47fd-9678-dc8dd7af9326,Synaro Pad Pro,electronics,tablets,657.27,4,0.1001,False,10,f6e2135c-60e3-47fd-9678-dc8dd7af9326.png
+de4a74b2-bd79-46ba-b112-167355bc8767,Pixon Sound Max,electronics,headphones,268.25,3,0.0613,False,10,de4a74b2-bd79-46ba-b112-167355bc8767.png
+005706f4-0bcd-44d8-a284-2a4f88258709,Pixon Orbit 4K,electronics,cameras,666.3,4,0.0983,False,0,005706f4-0bcd-44d8-a284-2a4f88258709.png
+5bd5ab00-c4b3-4327-a5f8-13842b8997cd,Zeltis Mini Pro,electronics,smartphones,820.16,4,0.0296,False,0,5bd5ab00-c4b3-4327-a5f8-13842b8997cd.png
+6f56e5cc-757b-451d-9b03-958b199cd1a0,Lumex Work Pro,electronics,laptops,1201.78,4,0.0693,False,30,6f56e5cc-757b-451d-9b03-958b199cd1a0.png
+f6986789-28e2-4fe6-a4c1-b9716549fc60,Synaro Tab Air,electronics,tablets,763.81,4,0.093,False,0,f6986789-28e2-4fe6-a4c1-b9716549fc60.png
+ade8a9c2-de2e-4030-89b3-3e84787cdebd,Synaro Ear Pro,electronics,headphones,378.76,3,0.0502,False,0,ade8a9c2-de2e-4030-89b3-3e84787cdebd.png
+8f6f8621-05d8-474e-af88-853bc4508366,Synaro Lens Max,electronics,cameras,1285.22,4,0.0587,False,30,8f6f8621-05d8-474e-af88-853bc4508366.png
+702bcf61-f853-479e-9b28-9d1961ff3ff5,Maeva Robe Midi Lin,fashion,clothing,172.9,2,0.0953,False,0,702bcf61-f853-479e-9b28-9d1961ff3ff5.png
+b60770ac-3242-467f-bc6c-740443fb0e36,Loryel Sneakers Chunky,fashion,shoes,182.66,2,0.135,False,20,b60770ac-3242-467f-bc6c-740443fb0e36.png
+4c58df78-bca8-4cae-ae9f-6f93bb954bc0,Céliane Foulard Soie,fashion,accessories,67.54,1,0.1085,False,0,4c58df78-bca8-4cae-ae9f-6f93bb954bc0.png
+611fb8b6-4054-4ab1-a26f-815aa92663ee,Céliane Bague Solitaire,fashion,jewelry,397.13,3,0.1018,False,30,611fb8b6-4054-4ab1-a26f-815aa92663ee.png
+62645476-f994-405c-8c0d-b3cdd10c90a1,Maeva Blazer Oversize,fashion,clothing,67.47,1,0.1671,False,0,62645476-f994-405c-8c0d-b3cdd10c90a1.png
+091fd21d-6aff-44a0-a374-a46047f54f03,Loryel Derby Verni,fashion,shoes,106.5,2,0.1437,False,30,091fd21d-6aff-44a0-a374-a46047f54f03.png
+74739cf6-2587-4feb-bf14-5ef9f79cf6fe,Céliane Ceinture Dorée,fashion,accessories,47.13,1,0.0979,False,0,74739cf6-2587-4feb-bf14-5ef9f79cf6fe.png
+a6316782-2f29-43b4-afb6-fce52ecdf225,Céliane Collier Fin Or,fashion,jewelry,275.13,3,0.1207,False,10,a6316782-2f29-43b4-afb6-fce52ecdf225.png
+080dc9d8-ed2b-4d3c-bfca-00cfa9753edb,Maeva Pull Col Roulé,fashion,clothing,155.48,2,0.1022,False,20,080dc9d8-ed2b-4d3c-bfca-00cfa9753edb.png
+28607bce-6b4c-4561-8b52-71f647894f19,Loryel Boot Chelsea,fashion,shoes,132.27,2,0.143,False,30,28607bce-6b4c-4561-8b52-71f647894f19.png
+35c77808-18b2-41e7-bb5b-51f0593fccd5,Céliane Lunettes Rétro,fashion,accessories,68.77,1,0.1359,False,0,35c77808-18b2-41e7-bb5b-51f0593fccd5.png
+9086e3a6-20df-4dd0-8238-bb27d7756256,Céliane Bracelet Manchette,fashion,jewelry,689.42,4,0.1503,False,0,9086e3a6-20df-4dd0-8238-bb27d7756256.png
+9b7de5dd-5aae-4865-a09c-729932ddc633,Maeva Jean Taille Haute,fashion,clothing,114.9,2,0.1016,True,0,9b7de5dd-5aae-4865-a09c-729932ddc633.png
+20bec438-0a60-490f-87d0-c9e1693658b5,Loryel Mule Cuir,fashion,shoes,255.2,3,0.1688,False,10,20bec438-0a60-490f-87d0-c9e1693658b5.png
+495f2a22-fff0-4239-afea-3f045aab0fb8,Céliane Chapeau Panama,fashion,accessories,55.07,1,0.1218,False,0,495f2a22-fff0-4239-afea-3f045aab0fb8.png
+e2be74a5-ebe5-4be4-a162-d562f329dd83,Céliane Boucles Créoles,fashion,jewelry,377.66,3,0.1079,False,0,e2be74a5-ebe5-4be4-a162-d562f329dd83.png
+a189a52c-ba7a-4cc3-9bc1-0ccd7b53229b,Maeva Chemise Lin Blanc,fashion,clothing,90.61,2,0.1104,False,10,a189a52c-ba7a-4cc3-9bc1-0ccd7b53229b.png
+230948a4-6edb-4531-83c3-6146d202a5c3,Loryel Escarpin Classic,fashion,shoes,165.9,2,0.0433,False,0,230948a4-6edb-4531-83c3-6146d202a5c3.png
+f542dbe4-dfe7-4704-9e49-01cef8d09eba,Céliane Béret Laine,fashion,accessories,111.96,2,0.0917,False,10,f542dbe4-dfe7-4704-9e49-01cef8d09eba.png
+b03676c7-c1f0-4644-9407-19f5a65c784b,Céliane Collier Perles,fashion,jewelry,205.46,3,0.1013,False,30,b03676c7-c1f0-4644-9407-19f5a65c784b.png
+0dbae741-461d-4f5e-9683-d62a4e2b6440,Maeva Cardigan Mohair,fashion,clothing,157.65,2,0.1415,False,10,0dbae741-461d-4f5e-9683-d62a4e2b6440.png
+6ef70c4f-bc1a-4097-b4f3-4987e1bec9f1,Loryel Loafer Mocassin,fashion,shoes,208.95,3,0.1753,True,10,6ef70c4f-bc1a-4097-b4f3-4987e1bec9f1.png
+944c824b-97a0-4200-b3f1-792d23632a24,Céliane Gants Cuir,fashion,accessories,63.08,1,0.0624,False,0,944c824b-97a0-4200-b3f1-792d23632a24.png
+9b4d6f85-ffbc-41f0-b64b-23654cf9e954,Maeva Bague Empilable,fashion,jewelry,229.92,3,0.1439,False,0,9b4d6f85-ffbc-41f0-b64b-23654cf9e954.png
+5bec4056-4f70-4a4e-b6e6-ff29ad93f852,Maeva Trench Beige,fashion,clothing,136.38,2,0.1248,False,10,5bec4056-4f70-4a4e-b6e6-ff29ad93f852.png
+320d9384-6e52-4a2f-8560-602d689b811b,Loryel Sandales Plates,fashion,shoes,153.73,2,0.1519,True,30,320d9384-6e52-4a2f-8560-602d689b811b.png
+2f07445f-2f6a-45d4-9ff3-d4b8b328bd8c,Céliane Écharpe Cachemire,fashion,accessories,87.8,2,0.1192,False,20,2f07445f-2f6a-45d4-9ff3-d4b8b328bd8c.png
+fab21c79-683d-4831-a5a9-d726b35c8d90,Maeva Bracelet Chaîne,fashion,jewelry,413.6,3,0.1093,True,30,fab21c79-683d-4831-a5a9-d726b35c8d90.png
+ff5c76fd-3820-45b1-9074-db0a46dced08,Nordex Parka Technique,fashion,clothing,250.0,3,0.0893,False,0,ff5c76fd-3820-45b1-9074-db0a46dced08.png
+508f6e24-75dc-45b4-981c-8d60f1c3f9ee,Loryel Bottines Lacets,fashion,shoes,172.65,2,0.1183,False,30,508f6e24-75dc-45b4-981c-8d60f1c3f9ee.png
+a5c618eb-a390-4a37-9216-cb9431c027d7,Céliane Ceinture Waist,fashion,accessories,53.12,1,0.1223,False,0,a5c618eb-a390-4a37-9216-cb9431c027d7.png
+606d69e0-053b-4bf4-a077-b352cef756fc,Maeva Pendentif Étoile,fashion,jewelry,440.48,3,0.1989,False,0,606d69e0-053b-4bf4-a077-b352cef756fc.png
+67d586c3-505a-4db2-9abe-6db60e6615ac,Nordex Doudoune Light,fashion,clothing,144.69,2,0.104,False,0,67d586c3-505a-4db2-9abe-6db60e6615ac.png
+b27ba008-9616-4538-a8a5-093f3c545fbf,Loryel Slip-On Daim,fashion,shoes,327.24,3,0.0703,False,0,b27ba008-9616-4538-a8a5-093f3c545fbf.png
+ed7e08e5-3c6b-4c9f-b84d-cb0b7ce8584e,Velune Sac à Main Structuré,fashion,accessories,111.73,2,0.0888,False,0,ed7e08e5-3c6b-4c9f-b84d-cb0b7ce8584e.png
+8bef3be0-fa8c-4699-baaa-14fe1fea6580,Alteo Boucles Pendantes,fashion,jewelry,472.91,3,0.1342,False,0,8bef3be0-fa8c-4699-baaa-14fe1fea6580.png
+decee308-e7be-4d1c-8052-f6d1773481a3,Nordex Blouson Bomber,fashion,clothing,237.91,3,0.1003,False,10,decee308-e7be-4d1c-8052-f6d1773481a3.png
+a29f7dd1-9ff4-4b61-9026-8e1080c95c31,Loryel Sport Runner,fashion,shoes,118.1,2,0.1447,False,10,a29f7dd1-9ff4-4b61-9026-8e1080c95c31.png
+22d49523-7b80-485c-9ead-8ad4ebc5d987,Velune Sac Bandoulière Mini,fashion,accessories,61.94,1,0.1042,False,20,22d49523-7b80-485c-9ead-8ad4ebc5d987.png
+598bfa95-6359-4b93-bbf0-169d4b37c2b8,Alteo Collier Chunky,fashion,jewelry,283.02,3,0.083,False,0,598bfa95-6359-4b93-bbf0-169d4b37c2b8.png
+cff1653e-19e3-4208-99e5-38460039c4ac,Nordex Manteau Laine,fashion,clothing,113.37,2,0.0584,False,20,cff1653e-19e3-4208-99e5-38460039c4ac.png
+423047eb-9931-485b-beb7-1853303f99d9,Loryel Sabot Bois,fashion,shoes,109.55,2,0.0893,False,0,423047eb-9931-485b-beb7-1853303f99d9.png
+a9866f88-def2-4a16-8061-d5ad03865fef,Velune Tote XXL Toile,fashion,accessories,103.14,2,0.1354,False,10,a9866f88-def2-4a16-8061-d5ad03865fef.png
+6d1abede-dcc3-456d-af59-09b10ae293b6,Alteo Bracelet Jonc,fashion,jewelry,375.13,3,0.1265,False,0,6d1abede-dcc3-456d-af59-09b10ae293b6.png
+f377af05-164f-46de-9e9a-2cb36110c58e,Nordex Veste Softshell,fashion,clothing,73.57,1,0.111,False,0,f377af05-164f-46de-9e9a-2cb36110c58e.png
+64550928-b368-4942-ba09-bd98d584dcfb,Loryel Ballerine Dorée,fashion,shoes,126.57,2,0.0542,False,0,64550928-b368-4942-ba09-bd98d584dcfb.png
+f9da6c96-c519-49c2-a0d1-8c1ffc66c218,Velune Sac Baguette,fashion,accessories,90.69,2,0.0838,False,20,f9da6c96-c519-49c2-a0d1-8c1ffc66c218.png
+acb87090-18b0-4a84-8311-ceaa60d679ae,Velune Bague Cocktail,fashion,jewelry,573.3,4,0.1068,False,0,acb87090-18b0-4a84-8311-ceaa60d679ae.png
+faedc43d-5947-4e81-9434-40093ca71767,Nordex Coupe-Vent Packable,fashion,clothing,250.0,3,0.1475,False,0,faedc43d-5947-4e81-9434-40093ca71767.png
+a40ed2c6-89c8-4e51-ab33-e346ca4695ed,Loryel Boot Western,fashion,shoes,350.0,3,0.1463,False,0,a40ed2c6-89c8-4e51-ab33-e346ca4695ed.png
+163e7aab-3aca-4866-a2f6-bb5efd2fe1eb,Velune Pochette Cuir Croco,fashion,accessories,94.42,2,0.1101,False,0,163e7aab-3aca-4866-a2f6-bb5efd2fe1eb.png
+84946d6b-2bcf-4f94-98e8-6de6680c1aeb,Velune Collier Ras de Cou,fashion,jewelry,275.98,3,0.0976,False,10,84946d6b-2bcf-4f94-98e8-6de6680c1aeb.png
+955208c3-50f6-4e4a-89fa-365d5aecbfa1,Brume & Co Sweat Hood,fashion,clothing,56.47,1,0.1076,False,0,955208c3-50f6-4e4a-89fa-365d5aecbfa1.png
+7f9e973e-9fc3-4d32-bea3-a0fe506083da,Loryel Botte Cavalière,fashion,shoes,211.48,3,0.1081,False,20,7f9e973e-9fc3-4d32-bea3-a0fe506083da.png
+497897b8-e892-4cb7-8254-51c41b70740b,Velune Sac Panier Osier,fashion,accessories,57.79,1,0.1663,False,0,497897b8-e892-4cb7-8254-51c41b70740b.png
+b69e8fa8-0ba5-4e16-b37a-a2350ecf94b4,Velune Ear Cuff,fashion,jewelry,347.24,3,0.0867,False,20,b69e8fa8-0ba5-4e16-b37a-a2350ecf94b4.png
+2a44e50f-ee61-4699-9b98-766054d5f2d3,Brume & Co Tee Vintage,fashion,clothing,103.73,2,0.1097,True,0,2a44e50f-ee61-4699-9b98-766054d5f2d3.png
+1a6094ae-3118-4bd4-8a93-09bc9bef827f,Alteo Sneakers Platform,fashion,shoes,179.6,2,0.1188,False,0,1a6094ae-3118-4bd4-8a93-09bc9bef827f.png
+a100ddf7-a874-40b5-8578-37da7f9493eb,Velune Sac Gym Nylon,fashion,accessories,122.54,2,0.1455,True,0,a100ddf7-a874-40b5-8578-37da7f9493eb.png
+6cb10545-0413-49ad-830d-c6591725f100,Faroe Bracelet Tissé,fashion,jewelry,436.58,3,0.1317,False,30,6cb10545-0413-49ad-830d-c6591725f100.png
+4f23c2e7-afc5-4a30-9546-19db122358f5,Brume & Co Cargo Pant,fashion,clothing,124.35,2,0.1234,False,20,4f23c2e7-afc5-4a30-9546-19db122358f5.png
+24142078-6b9d-4ced-96ad-7ec8fdb86a40,Alteo Mule Brodée,fashion,shoes,125.56,2,0.0988,False,0,24142078-6b9d-4ced-96ad-7ec8fdb86a40.png
+7b9a1db3-4579-49bc-a31e-1c449f01279d,Velune Sac à Dos Urbain,fashion,accessories,40.94,1,0.1416,False,30,7b9a1db3-4579-49bc-a31e-1c449f01279d.png
+8a31ff13-bf27-4b1d-b79e-a9fa3c9ed679,Faroe Collier Solitaire,fashion,jewelry,337.52,3,0.1262,False,0,8a31ff13-bf27-4b1d-b79e-a9fa3c9ed679.png
+df9add81-2740-4b14-889e-4e9b3edd8f26,Brume & Co Chemise Flanelle,fashion,clothing,129.68,2,0.1351,False,20,df9add81-2740-4b14-889e-4e9b3edd8f26.png
+ac819c30-1335-4d4d-bc6a-d0aa9e65e6de,Alteo Sandale Dorée,fashion,shoes,350.0,3,0.1469,True,20,ac819c30-1335-4d4d-bc6a-d0aa9e65e6de.png
+980957e1-2194-43db-b7fb-2fd1995250b0,Velune Clutch Dorée,fashion,accessories,84.28,2,0.1302,True,0,980957e1-2194-43db-b7fb-2fd1995250b0.png
+85f5aa4b-f4e8-4622-bc34-eea4ca1357be,Loryel Chevalière Dorée,fashion,jewelry,607.44,4,0.1278,False,0,85f5aa4b-f4e8-4622-bc34-eea4ca1357be.png
+99022bd2-7a5e-4570-a7df-233a15805eb6,Brume & Co Combinaison,fashion,clothing,108.51,2,0.1486,False,20,99022bd2-7a5e-4570-a7df-233a15805eb6.png
+aa29498e-3066-4eca-8aa0-a02cf77d4b68,Nordex Boot Trail,fashion,shoes,118.28,2,0.1325,False,30,aa29498e-3066-4eca-8aa0-a02cf77d4b68.png
+0fb6654f-3cf0-4925-8588-ac651fd82e10,Velune Cabas Shopping,fashion,accessories,54.38,1,0.0932,True,10,0fb6654f-3cf0-4925-8588-ac651fd82e10.png
+3db16e20-bbdc-427d-b8b5-3c89d21e7c6e,Loryel Bracelet Cuir,fashion,jewelry,306.76,3,0.1481,False,10,3db16e20-bbdc-427d-b8b5-3c89d21e7c6e.png
+6c8e4238-2a88-4475-81fe-fe8dd3c231b0,Alteo Robe Longue Bohème,fashion,clothing,250.0,3,0.1485,False,0,6c8e4238-2a88-4475-81fe-fe8dd3c231b0.png
+a4b24a40-ee64-48e3-8a97-b3697fdeecd6,Nordex Sneakers Tech,fashion,shoes,136.79,2,0.1135,False,0,a4b24a40-ee64-48e3-8a97-b3697fdeecd6.png
+b3b332ef-c9e0-4075-be7c-1eda5295f834,Velune Banane Street,fashion,accessories,111.88,2,0.1262,True,0,b3b332ef-c9e0-4075-be7c-1eda5295f834.png
+fea3699f-e3bf-4e99-9554-5ae3375f10e9,Brume & Co Chaîne Fine,fashion,jewelry,285.71,3,0.1226,False,30,fea3699f-e3bf-4e99-9554-5ae3375f10e9.png
+eca3ad2e-756a-4a72-b4c4-1eb63ec74210,Alteo Kimono Fleuri,fashion,clothing,192.33,2,0.1534,False,20,eca3ad2e-756a-4a72-b4c4-1eb63ec74210.png
+7b80abbc-60e7-4d8a-9d2c-988ce0b7b5c4,Nordex Chaussure Run,fashion,shoes,221.63,3,0.1715,False,10,7b80abbc-60e7-4d8a-9d2c-988ce0b7b5c4.png
+716cdcf0-9d17-44b1-a192-e5471c9c2c73,Maeva Ceinture Tressée,fashion,accessories,75.14,2,0.1082,False,0,716cdcf0-9d17-44b1-a192-e5471c9c2c73.png
+b08d67a6-b1db-4f49-a77f-ea1262e63ee1,Brume & Co Ring Set 5 pièces,fashion,jewelry,403.37,3,0.1227,False,0,b08d67a6-b1db-4f49-a77f-ea1262e63ee1.png
+97df7173-e1f1-4e53-b09e-3d0bf96b0da2,Alteo Robe Satinée,fashion,clothing,101.97,2,0.0883,False,30,97df7173-e1f1-4e53-b09e-3d0bf96b0da2.png
+a3dd4d5b-0fac-4331-8a1b-c05212a02719,Brume & Co Sneakers Rétro,fashion,shoes,227.11,3,0.108,False,0,a3dd4d5b-0fac-4331-8a1b-c05212a02719.png
+3f05f62d-4916-4d4d-864d-8cb172dd1416,Maeva Sac Micro Cuir,fashion,accessories,66.69,1,0.1354,False,10,3f05f62d-4916-4d4d-864d-8cb172dd1416.png
+9326957b-4608-4a16-9a6e-d1fe7723bad2,Nordex Montre Minimaliste,fashion,jewelry,251.12,3,0.1276,False,30,9326957b-4608-4a16-9a6e-d1fe7723bad2.png
+abc99312-17ca-4d0d-84d4-3c3d408712ac,Alteo Combi Pantalon,fashion,clothing,79.47,2,0.1092,False,0,abc99312-17ca-4d0d-84d4-3c3d408712ac.png
+32547e90-9159-491c-8f3a-17ea736d8c2e,Brume & Co Oxford Cuir,fashion,shoes,203.58,3,0.1032,False,10,32547e90-9159-491c-8f3a-17ea736d8c2e.png
+c23868e2-1376-43cc-83b8-499ba900c70e,Brume & Co Bonnet Oversize,fashion,accessories,150.0,2,0.1034,False,0,c23868e2-1376-43cc-83b8-499ba900c70e.png
+6a160e71-7659-491e-a849-71f8450b09b6,Nordex Bracelet Sport,fashion,jewelry,437.1,3,0.1722,False,30,6a160e71-7659-491e-a849-71f8450b09b6.png
+7b4ff883-e322-41be-9f90-2d5f3f70c9a8,Alteo Crop Top Dentelle,fashion,clothing,126.36,2,0.1188,False,0,7b4ff883-e322-41be-9f90-2d5f3f70c9a8.png
+8f7173ac-d2cc-41d5-be4f-ee36e2a2da78,Maeva Escarpin Satin,fashion,shoes,213.01,3,0.0696,False,0,8f7173ac-d2cc-41d5-be4f-ee36e2a2da78.png
+8f713e50-9536-44d7-bf3d-f71077d1c56b,Brume & Co Casquette Vintage,fashion,accessories,134.89,2,0.1181,False,0,8f713e50-9536-44d7-bf3d-f71077d1c56b.png
+fee37e79-bca8-494c-9f71-06d244aa50d5,Céliane Parure Complète,fashion,jewelry,447.6,3,0.1214,False,20,fee37e79-bca8-494c-9f71-06d244aa50d5.png
+4252255b-9a16-4b8f-8a2f-d6aebcbd7014,Faroe Pyjama Satiné,fashion,clothing,112.42,2,0.0636,True,20,4252255b-9a16-4b8f-8a2f-d6aebcbd7014.png
+c0ae3c31-c755-453c-aee5-b78b98134404,Maeva Sandale Minimaliste,fashion,shoes,295.76,3,0.1464,False,0,c0ae3c31-c755-453c-aee5-b78b98134404.png
+77ca257b-fcc9-486f-9924-814b3aafcff0,Alteo Foulard Imprimé,fashion,accessories,94.97,2,0.1778,True,0,77ca257b-fcc9-486f-9924-814b3aafcff0.png
+e95c0774-9c54-4781-98e6-59910a64d50d,Céliane Boucles Geometriques,fashion,jewelry,757.83,4,0.1491,False,0,e95c0774-9c54-4781-98e6-59910a64d50d.png
+b97c656f-f1c6-4302-b747-024ada03babc,Faroe Body Dentelle,fashion,clothing,142.58,2,0.0987,True,0,b97c656f-f1c6-4302-b747-024ada03babc.png
+e98f8a79-d6d2-4d7a-ac48-51ad15d7a0ff,Velune Derby Bicolore,fashion,shoes,116.42,2,0.1727,False,10,e98f8a79-d6d2-4d7a-ac48-51ad15d7a0ff.png
+c6f40b8d-bc05-4436-9c72-a6bd129ca239,Alteo Sac Crochet,fashion,accessories,46.28,1,0.1395,False,0,c6f40b8d-bc05-4436-9c72-a6bd129ca239.png
+1aaa0699-172b-4154-9a29-1e29e69261cc,Maeva Set Collier Bracelet,fashion,jewelry,793.56,4,0.1174,False,30,1aaa0699-172b-4154-9a29-1e29e69261cc.png
+f0bed883-5bdf-463a-af96-eef0bd3062b2,Faroe Peignoir Éponge,fashion,clothing,250.0,3,0.0939,False,0,f0bed883-5bdf-463a-af96-eef0bd3062b2.png
+03d5cbd5-6880-4011-89e2-1ba5175a7a39,Velune Boot Zip,fashion,shoes,176.83,2,0.064,True,0,03d5cbd5-6880-4011-89e2-1ba5175a7a39.png
+0c62f675-ee85-4954-b300-bd2295c7f161,Nordex Sac Trekking 20L,fashion,accessories,68.63,1,0.0925,False,20,0c62f675-ee85-4954-b300-bd2295c7f161.png
+88d48461-b6d1-4549-8594-323929cab202,Maeva Tiare Dorée,fashion,jewelry,735.64,4,0.0612,False,0,88d48461-b6d1-4549-8594-323929cab202.png
+0841e5ac-3c2d-4e3d-baae-6199cd5877d7,Velune Veste Cuir Vintage,fashion,clothing,85.09,2,0.1261,False,10,0841e5ac-3c2d-4e3d-baae-6199cd5877d7.png
+e3c68abe-eadf-4e70-bedd-ba895bb00af5,Faroe Ballerine Nude,fashion,shoes,132.84,2,0.1401,False,20,e3c68abe-eadf-4e70-bedd-ba895bb00af5.png
+aac00aa9-3a8e-4342-975f-83a53bbf400d,Nordex Gants Techniques,fashion,accessories,103.48,2,0.0237,False,20,aac00aa9-3a8e-4342-975f-83a53bbf400d.png
+68c9471f-39f7-4605-bab5-df2707c80e46,Alteo Headband Doré,fashion,jewelry,350.13,3,0.1562,False,0,68c9471f-39f7-4605-bab5-df2707c80e46.png
+0c78713d-810e-4e8c-aa06-f243352f652e,Velune Jean Slim Brut,fashion,clothing,132.23,2,0.1025,False,20,0c78713d-810e-4e8c-aa06-f243352f652e.png
+e2f96d08-c38d-4b29-903d-e1f3da42142a,Faroe Mule Velours,fashion,shoes,177.98,2,0.1322,False,30,e2f96d08-c38d-4b29-903d-e1f3da42142a.png
+a3be0404-1a5b-4ec9-85fb-71675497ca6c,Terrano Table Basse Bois,home_deco,furniture,1190.35,4,0.0497,False,0,a3be0404-1a5b-4ec9-85fb-71675497ca6c.png
+afa84eda-bbd9-445e-b66e-de5cfa3c8f5a,Terrano Lampe Arc Velvet,home_deco,lighting,460.93,3,0.0823,False,0,afa84eda-bbd9-445e-b66e-de5cfa3c8f5a.png
+726a4835-f683-475a-b6c7-2ace90292286,Kova Vase Céramique Mat,home_deco,decorative_items,160.72,2,0.0627,False,20,726a4835-f683-475a-b6c7-2ace90292286.png
+dcd70ca6-6634-4a9e-89ff-d5690830c038,Terrano Console Métal Bois,home_deco,furniture,1345.54,4,0.0847,False,20,dcd70ca6-6634-4a9e-89ff-d5690830c038.png
+7fdd52fa-d5b8-4bf9-b4cc-6643f14d2004,Terrano Suspension Rotin Naturel,home_deco,lighting,115.61,2,0.1063,False,0,7fdd52fa-d5b8-4bf9-b4cc-6643f14d2004.png
+cf71597d-5818-4c97-9fc2-c37723722b03,Kova Coussin Velours Sauge,home_deco,decorative_items,152.01,2,0.09,False,30,cf71597d-5818-4c97-9fc2-c37723722b03.png
+8a3cd3e9-529c-4ac0-92d1-639a7009ec92,Terrano Bibliothèque Bambou,home_deco,furniture,742.25,4,0.0919,False,0,8a3cd3e9-529c-4ac0-92d1-639a7009ec92.png
+eb912e40-6ec6-4612-b65d-92f1bd1f734e,Kova Lampe Rotin Naturel,home_deco,lighting,161.21,2,0.0995,False,30,eb912e40-6ec6-4612-b65d-92f1bd1f734e.png
+ba42f779-b30a-44e4-9ac6-237b92ae2d3f,Kova Plateau Marbre Blanc,home_deco,decorative_items,109.09,2,0.1145,False,30,ba42f779-b30a-44e4-9ac6-237b92ae2d3f.png
+5fcf78ba-4a02-4bdf-8fac-8db919b32764,Terrano Chaise Velours Émeraude,home_deco,furniture,909.89,4,0.1,False,10,5fcf78ba-4a02-4bdf-8fac-8db919b32764.png
+2ca66ff8-40ee-43c8-8fe4-51c3997c781d,Kova Bougoir Laiton,home_deco,lighting,378.65,3,0.0527,False,0,2ca66ff8-40ee-43c8-8fe4-51c3997c781d.png
+09be3bd6-b75c-485c-a2a4-246181a46bc5,Kova Panier Jonc de Mer,home_deco,decorative_items,91.18,2,0.0964,False,0,09be3bd6-b75c-485c-a2a4-246181a46bc5.png
+0b6ba461-dbb0-4431-acc7-f428478fa6e9,Terrano Pouf Cuir,home_deco,furniture,1052.82,4,0.1017,True,0,0b6ba461-dbb0-4431-acc7-f428478fa6e9.png
+7a309401-6872-411d-a30a-3a20fef8d4dd,Kova Lampe de Chevet Marbre,home_deco,lighting,216.28,3,0.0422,False,0,7a309401-6872-411d-a30a-3a20fef8d4dd.png
+1d641c06-0abe-4e65-8970-e33152ef477b,Kova Cache-Pot Terracotta,home_deco,decorative_items,135.96,2,0.0506,False,0,1d641c06-0abe-4e65-8970-e33152ef477b.png
+0ced6a48-bb93-491c-8a91-e9327d29ff4e,Terrano Lampadaire Trépied,home_deco,furniture,1553.21,4,0.181,True,0,0ced6a48-bb93-491c-8a91-e9327d29ff4e.png
+0ce050b9-7c42-4d19-b66e-58f2a4e395b5,Arcos Lampe Bureau Articulée,home_deco,lighting,325.54,3,0.1014,False,10,0ce050b9-7c42-4d19-b66e-58f2a4e395b5.png
+4a078a39-d8fc-4761-b327-f48e2d039536,Kova Statuette Béton,home_deco,decorative_items,264.64,3,0.0148,False,30,4a078a39-d8fc-4761-b327-f48e2d039536.png
+1db0626a-8f94-4de7-ae5f-2dd05d61885c,Kova Table de Nuit Rotin,home_deco,furniture,977.67,4,0.0154,False,0,1db0626a-8f94-4de7-ae5f-2dd05d61885c.png
+35814eb3-1578-4389-9e1b-c9ef63a51270,Arcos Spot LED Magnétique,home_deco,lighting,198.72,2,0.0703,False,0,35814eb3-1578-4389-9e1b-c9ef63a51270.png
+07f44713-6a4a-40ac-9bff-229f73eedafb,Terrano Tapis Berbère Laine,home_deco,decorative_items,141.72,2,0.0792,False,20,07f44713-6a4a-40ac-9bff-229f73eedafb.png
+28e5cde4-f3e4-41f3-89a9-cca6d61962d6,Kova Étagère Murale Hexagonale,home_deco,furniture,1145.93,4,0.0934,False,0,28e5cde4-f3e4-41f3-89a9-cca6d61962d6.png
+662192a0-0d74-4aa2-8978-23ffed6567f7,Sento Diffuseur Ultrason Lumineux,home_deco,lighting,281.71,3,0.0738,False,0,662192a0-0d74-4aa2-8978-23ffed6567f7.png
+491d5d9e-55eb-488c-a395-1070ce00225a,Terrano Rideau Lin Brut,home_deco,decorative_items,100.45,2,0.0555,True,0,491d5d9e-55eb-488c-a395-1070ce00225a.png
+81bcb81f-8e7e-47d8-8269-8f525a2832fc,Kova Banc Entrée Bois,home_deco,furniture,1078.33,4,0.0623,False,20,81bcb81f-8e7e-47d8-8269-8f525a2832fc.png
+34345d53-116a-470d-ac7e-360786e62a9a,Sento Guirlande Ampoules Vintage,home_deco,lighting,287.59,3,0.0537,False,20,34345d53-116a-470d-ac7e-360786e62a9a.png
+e29070b4-4a12-424d-a38e-a2ac8b696beb,Terrano Plaid Texturé,home_deco,decorative_items,300.0,3,0.1029,False,0,e29070b4-4a12-424d-a38e-a2ac8b696beb.png
+c4f24386-9c4c-4243-bb20-b9097f2a63f4,Havra Table Apéro Bois,home_deco,furniture,2000.0,4,0.0519,False,0,c4f24386-9c4c-4243-bb20-b9097f2a63f4.png
+4038d7de-84b7-46a7-a9de-f0c3a7de9165,Blume Guirlande Fleurs Séchées,home_deco,lighting,186.6,2,0.0428,False,0,4038d7de-84b7-46a7-a9de-f0c3a7de9165.png
+4e2ffbc7-a7ab-4047-9ee0-a83d2a613a3a,Blume Bouquet Séché Pampa,home_deco,decorative_items,138.17,2,0.0445,False,0,4e2ffbc7-a7ab-4047-9ee0-a83d2a613a3a.png
+b6e420bb-62f3-47de-84c2-4d1f97a4cf1d,Havra Tabouret Bar Métal,home_deco,furniture,579.17,4,0.1,True,0,b6e420bb-62f3-47de-84c2-4d1f97a4cf1d.png
+82b873c2-f861-4fa0-9d55-34f0fcfc2039,Blume Cloche Verre Dorée,home_deco,lighting,207.26,3,0.0316,False,0,82b873c2-f861-4fa0-9d55-34f0fcfc2039.png
+557bbbac-32ba-4694-aad7-441f83ba5bf8,Blume Pot Suspendu Macramé,home_deco,decorative_items,175.86,2,0.0309,False,0,557bbbac-32ba-4694-aad7-441f83ba5bf8.png
+8a5c1850-93ae-423d-a522-0cfff44a7773,Arcos Bureau Compact Bois,home_deco,furniture,1684.66,4,0.0445,False,10,8a5c1850-93ae-423d-a522-0cfff44a7773.png
+1cecb671-16cd-48fd-b0ac-4b7f655092ab,Mosaïk Bougeoir Mosaïque,home_deco,lighting,196.1,2,0.1582,False,30,1cecb671-16cd-48fd-b0ac-4b7f655092ab.png
+91b89c3b-d47a-407c-9191-6ca7179ef45a,Blume Terrarium Verre,home_deco,decorative_items,119.31,2,0.0911,False,20,91b89c3b-d47a-407c-9191-6ca7179ef45a.png
+34450068-bbac-40d8-98b2-eddc9af6b903,Arcos Étagère Acier Noir,home_deco,furniture,440.57,3,0.0254,False,0,34450068-bbac-40d8-98b2-eddc9af6b903.png
+94b6667e-4951-4915-8e15-dc3f69d6676c,Mosaïk Lanterne Métal Noir,home_deco,lighting,245.96,3,0.1379,False,30,94b6667e-4951-4915-8e15-dc3f69d6676c.png
+7446ce1a-96f0-488f-92d7-fc51ae9edb4e,Mosaïk Tableau Peinture Main,home_deco,decorative_items,101.34,2,0.0851,True,0,7446ce1a-96f0-488f-92d7-fc51ae9edb4e.png
+18ed36f6-e10e-4f3c-9af5-7a289b04abf8,Linum Tête de Lit Cannage,home_deco,furniture,841.51,4,0.0637,False,10,18ed36f6-e10e-4f3c-9af5-7a289b04abf8.png
+7a326d52-3d68-4529-b3c1-d5fc07a23884,Havra Chandelier Laiton 5 bras,home_deco,lighting,184.84,2,0.0689,True,0,7a326d52-3d68-4529-b3c1-d5fc07a23884.png
+6331dba7-2ba1-41dc-9ea1-baca182ebb73,Mosaïk Vase Marbré,home_deco,decorative_items,149.26,2,0.096,False,10,6331dba7-2ba1-41dc-9ea1-baca182ebb73.png
+e159e10e-1730-4c2c-9eae-1bcf67a53889,Linum Banquette Velours,home_deco,furniture,514.85,4,0.0883,False,10,e159e10e-1730-4c2c-9eae-1bcf67a53889.png
+3ccd7b6e-1d22-4ba5-a6c6-99ae8307a8e0,Havra Bougeoir Cylindre Fumé,home_deco,lighting,145.97,2,0.0967,False,0,3ccd7b6e-1d22-4ba5-a6c6-99ae8307a8e0.png
+2f9f1231-60ff-4a2e-8a98-2b3282392a38,Mosaïk Mobile Bois Géométrique,home_deco,decorative_items,300.0,3,0.1094,False,10,2f9f1231-60ff-4a2e-8a98-2b3282392a38.png
+61f8a3a2-fd4c-44c3-a0e7-bfe37276dff7,Mosaïk Commode 3 Tiroirs,home_deco,furniture,621.42,4,0.1055,True,30,61f8a3a2-fd4c-44c3-a0e7-bfe37276dff7.png
+71908d14-c210-4f2f-8eb8-f354de52046e,Linum Applique Murale Lin,home_deco,lighting,169.28,2,0.0678,False,20,71908d14-c210-4f2f-8eb8-f354de52046e.png
+59a94b66-d0db-4387-b9b7-8ceaf5a57dd5,Sento Sel de Bain Himalaya,home_deco,decorative_items,300.0,3,0.0688,False,10,59a94b66-d0db-4387-b9b7-8ceaf5a57dd5.png
+66b241cf-8673-4586-959e-85cfb18d0490,Mosaïk Table Gigognes,home_deco,furniture,2000.0,4,0.0783,False,20,66b241cf-8673-4586-959e-85cfb18d0490.png
+d6629420-294f-4bf7-b223-e051dd553c7a,Linum Abat-jour Plissé,home_deco,lighting,164.29,2,0.0684,True,20,d6629420-294f-4bf7-b223-e051dd553c7a.png
+0c3ac49c-e098-48a3-8a31-5c64c92b4b33,Sento Kit Aromathérapie,home_deco,decorative_items,133.77,2,0.0636,False,10,0c3ac49c-e098-48a3-8a31-5c64c92b4b33.png
+88f1610e-f54c-4f9f-8a2e-17673b6c934d,Sento Fauteuil Lecture,home_deco,furniture,1192.25,4,0.087,False,0,88f1610e-f54c-4f9f-8a2e-17673b6c934d.png
+c2efa5ad-e7a9-4d0f-b2b5-320c2063e126,Terrano Lampe à Poser Béton,home_deco,lighting,500.0,4,0.0831,True,10,c2efa5ad-e7a9-4d0f-b2b5-320c2063e126.png
+1584e3b8-9b57-4834-9101-022da3aff8ed,Arcos Cadre Photo Multiple,home_deco,decorative_items,104.45,2,0.0759,False,10,1584e3b8-9b57-4834-9101-022da3aff8ed.png
+c529331e-ece8-4f2c-8a2e-06dbb423cbc2,Sento Chaise Scandinave,home_deco,furniture,942.81,4,0.0986,False,30,c529331e-ece8-4f2c-8a2e-06dbb423cbc2.png
+8f23b9b8-b9d6-427f-9120-bdd391b57453,Kova Veilleuse Enfant,home_deco,lighting,358.23,3,0.0742,False,30,8f23b9b8-b9d6-427f-9120-bdd391b57453.png
+87643bdb-4e9d-480c-8e8e-098325bef6a7,Arcos Organiseur Bureau Bois,home_deco,decorative_items,184.44,2,0.07,False,0,87643bdb-4e9d-480c-8e8e-098325bef6a7.png
+aff325c1-7781-41a6-acf0-3e4d499fb836,Blume Support Plante Bambou,home_deco,furniture,894.72,4,0.0993,False,0,aff325c1-7781-41a6-acf0-3e4d499fb836.png
+e89ac518-f29d-41e1-81a0-ca9fa4784005,Arcos Lampe Clip Bureau,home_deco,lighting,248.82,3,0.0999,False,0,e89ac518-f29d-41e1-81a0-ca9fa4784005.png
+a3f1662b-a391-470f-8027-6b60c1f344ab,Linum Nappe Lavée Stone,home_deco,decorative_items,89.43,2,0.1197,False,0,a3f1662b-a391-470f-8027-6b60c1f344ab.png
+8a7fce24-ecb7-4abe-8677-6b1377f1c8c1,Blume Porte-Plante Acier,home_deco,furniture,945.49,4,0.0724,False,0,8a7fce24-ecb7-4abe-8677-6b1377f1c8c1.png
+843dcd5b-a49a-48ce-a6a8-bb2a6627ad0f,Sento Bougie Parfumée Figue,home_deco,lighting,235.97,3,0.0744,True,0,843dcd5b-a49a-48ce-a6a8-bb2a6627ad0f.png
+a865f7bc-d7a9-4acd-98dd-91d2540c613d,Linum Chemin de Table Lin,home_deco,decorative_items,170.08,2,0.0724,False,20,a865f7bc-d7a9-4acd-98dd-91d2540c613d.png
+8647f8d4-6f66-4afb-8898-b97f9f7bfa5e,Terrano Meuble TV Bois Naturel,home_deco,furniture,832.84,4,0.0878,False,0,8647f8d4-6f66-4afb-8898-b97f9f7bfa5e.png
+c476d149-0019-45b8-bc7d-ef97eff33910,Blume Bougie Soja Bergamote,home_deco,lighting,316.99,3,0.0495,False,0,c476d149-0019-45b8-bc7d-ef97eff33910.png
+2b694164-6edb-4a02-b784-36160f0a2fea,Havra Coffret Thé Nordique,home_deco,decorative_items,232.41,3,0.0624,False,0,2b694164-6edb-4a02-b784-36160f0a2fea.png
+eed40c17-ffb0-44da-8b96-ef3861449f42,Terrano Suspension Rotin,home_deco,furniture,1106.71,4,0.0702,True,10,eed40c17-ffb0-44da-8b96-ef3861449f42.png
+68a793a8-484b-4641-a00a-c6e90fe5e965,Mosaïk Bougie Flottante,home_deco,lighting,302.16,3,0.0899,False,0,68a793a8-484b-4641-a00a-c6e90fe5e965.png
+44a1a8bb-3187-4c08-b485-2dd6e18242bc,Havra Set Bougies 3 Tailles,home_deco,decorative_items,158.33,2,0.0698,False,30,44a1a8bb-3187-4c08-b485-2dd6e18242bc.png
+386b0aeb-1a49-4b6f-b54a-64b860f15d87,Kova Miroir Arche Dorée,home_deco,furniture,1040.04,4,0.0568,False,0,386b0aeb-1a49-4b6f-b54a-64b860f15d87.png
+083e6ada-c58a-473e-9d58-889241071d93,Forza Kettlebell 12kg,sports,fitness_equipment,464.56,3,0.1023,False,20,083e6ada-c58a-473e-9d58-889241071d93.png
+abd5b3fe-6a58-41f0-91e1-69e37fd5355b,Altiva Sac à Dos Trail 20L,sports,outdoor_gear,468.17,3,0.1132,True,0,abd5b3fe-6a58-41f0-91e1-69e37fd5355b.png
+216a51d4-360f-41f1-a201-b719a7b40cbb,Kinexa Short Running 2-en-1,sports,sportswear,127.44,2,0.1193,False,30,216a51d4-360f-41f1-a201-b719a7b40cbb.png
+9e271791-0aeb-4e48-9496-84b99cd27da0,Forza Bande Élastique Set,sports,fitness_equipment,1200.0,4,0.0532,False,20,9e271791-0aeb-4e48-9496-84b99cd27da0.png
+9eacc3c4-2176-4bce-b3da-428c8702f03e,Altiva Ceinture Running,sports,outdoor_gear,774.0,4,0.0557,False,0,9eacc3c4-2176-4bce-b3da-428c8702f03e.png
+413a1816-4a1f-44b7-a90e-36faa99ef4a8,Kinexa Brassière Impact Fort,sports,sportswear,154.61,2,0.0836,True,20,413a1816-4a1f-44b7-a90e-36faa99ef4a8.png
+2313ff51-d7d8-4c7b-969f-2442993a1086,Forza Haltères Réglables,sports,fitness_equipment,456.91,3,0.1323,True,10,2313ff51-d7d8-4c7b-969f-2442993a1086.png
+4cacdbeb-65be-4341-bc64-35166fa459b7,Altiva Gourde Filtrante,sports,outdoor_gear,264.35,3,0.1309,False,30,4cacdbeb-65be-4341-bc64-35166fa459b7.png
+3f6d32e6-c081-41d7-803e-f192bfe7d4c2,Kinexa Tee Technique Dry,sports,sportswear,213.37,3,0.0312,False,30,3f6d32e6-c081-41d7-803e-f192bfe7d4c2.png
+9eceedf6-5a04-4c46-8278-04a0c94a7ca8,Forza Roller Massage,sports,fitness_equipment,688.71,4,0.0766,False,10,9eceedf6-5a04-4c46-8278-04a0c94a7ca8.png
+b27f99c8-a5f4-4b83-af8f-e40856f09a5e,Altiva Bâtons Trekking Carbone,sports,outdoor_gear,499.84,3,0.0961,False,0,b27f99c8-a5f4-4b83-af8f-e40856f09a5e.png
+30328204-e041-405c-9c4c-a48f62040aa8,Kinexa Legging Compressif,sports,sportswear,65.94,1,0.1326,False,20,30328204-e041-405c-9c4c-a48f62040aa8.png
+1388eb69-3e2b-4052-850d-fae19872f249,Forza Banc Musculation,sports,fitness_equipment,898.47,4,0.0492,False,10,1388eb69-3e2b-4052-850d-fae19872f249.png
+be5c2be0-065e-4645-a5f4-f9ce289f7de2,Altiva Guêtres Trail,sports,outdoor_gear,494.73,3,0.1037,False,30,be5c2be0-065e-4645-a5f4-f9ce289f7de2.png
+dfed4ff3-c7f0-4945-9343-49cd9091362b,Kinexa Veste Coupe-Vent Run,sports,sportswear,84.98,2,0.0762,False,20,dfed4ff3-c7f0-4945-9343-49cd9091362b.png
+bea6ab54-c776-4c02-9609-a2aa6d006d5d,Forza Anneau Pilates,sports,fitness_equipment,513.43,4,0.0896,False,0,bea6ab54-c776-4c02-9609-a2aa6d006d5d.png
+1205d6ae-e5af-4016-9a4b-c9c615385c97,Altiva Lampe Frontale 800lm,sports,outdoor_gear,458.39,3,0.0844,False,20,1205d6ae-e5af-4016-9a4b-c9c615385c97.png
+042a5d55-87e6-45b6-a0fe-6be8fbcb3b77,Kinexa Chaussettes Pro,sports,sportswear,135.31,2,0.124,False,0,042a5d55-87e6-45b6-a0fe-6be8fbcb3b77.png
+d3d5e417-9559-47f0-a82a-c364ac0faffc,Forza Ballon Swiss Ball,sports,fitness_equipment,551.62,4,0.0864,False,10,d3d5e417-9559-47f0-a82a-c364ac0faffc.png
+adf53833-5169-433a-bbf0-2094813df351,Altiva Sac Hydratation 1.5L,sports,outdoor_gear,395.77,3,0.0318,False,20,adf53833-5169-433a-bbf0-2094813df351.png
+f794a65c-59f5-44b7-8269-985b170d8667,Kinexa Gants Trail,sports,sportswear,119.8,2,0.0811,True,0,f794a65c-59f5-44b7-8269-985b170d8667.png
+63e2bc00-3c43-40c8-bace-3608e5eb4864,Forza Support Barre Traction,sports,fitness_equipment,659.01,4,0.0497,False,0,63e2bc00-3c43-40c8-bace-3608e5eb4864.png
+cb347283-2816-4969-adff-a19b59526477,Altiva Boussole Précision,sports,outdoor_gear,743.1,4,0.1083,False,10,cb347283-2816-4969-adff-a19b59526477.png
+09426cae-3531-4515-876d-91c8dcf08066,Kinexa Bandeau Sport,sports,sportswear,47.46,1,0.0279,False,10,09426cae-3531-4515-876d-91c8dcf08066.png
+01269ba0-fe2f-4603-9ea7-d9d8138e9a89,Forza Corde à Sauter Pro,sports,fitness_equipment,563.96,4,0.0847,False,20,01269ba0-fe2f-4603-9ea7-d9d8138e9a89.png
+c33abe04-3504-4524-b5e6-78087f07ae2a,Crestline Tente Bivouac 2p,sports,outdoor_gear,442.68,3,0.0979,True,20,c33abe04-3504-4524-b5e6-78087f07ae2a.png
+8512b04e-47cc-4047-836b-b8a074578b9c,Stridex Runner Ultra Boost,sports,sportswear,149.15,2,0.0957,False,0,8512b04e-47cc-4047-836b-b8a074578b9c.png
+c83ed98c-030d-453d-8e8f-8f7cae540231,Kinexa Tapis Yoga 6mm,sports,fitness_equipment,534.3,4,0.0562,False,30,c83ed98c-030d-453d-8e8f-8f7cae540231.png
+cc73f1ec-e774-421f-a1c4-24668ef1e50b,Crestline Sac de Couchage -5°,sports,outdoor_gear,204.29,3,0.0493,True,20,cc73f1ec-e774-421f-a1c4-24668ef1e50b.png
+8bb21feb-afb3-47d5-a921-d9d9223ba79d,Stridex Chaussure Trail X3,sports,sportswear,151.08,2,0.0368,False,10,8bb21feb-afb3-47d5-a921-d9d9223ba79d.png
+389cf48c-980d-4768-a273-a6bc3014170b,Kinexa Foam Roller 90cm,sports,fitness_equipment,1200.0,4,0.0691,True,10,389cf48c-980d-4768-a273-a6bc3014170b.png
+41f62197-d262-4c61-80fe-5c621e2b31f9,Crestline Matelas Gonflable,sports,outdoor_gear,223.34,3,0.1408,False,0,41f62197-d262-4c61-80fe-5c621e2b31f9.png
+81340631-3a03-40fb-b28e-ea60a6d9038c,Stridex Cross Entraînement,sports,sportswear,187.19,2,0.1126,False,10,81340631-3a03-40fb-b28e-ea60a6d9038c.png
+0e0a498d-48f5-414e-aa0b-95d46988f315,Kinexa Step Aérobic Réglable,sports,fitness_equipment,543.65,4,0.1372,False,20,0e0a498d-48f5-414e-aa0b-95d46988f315.png
+1d318b04-2df5-42d0-81ff-2ef443637c00,Crestline Couverture Survie,sports,outdoor_gear,402.5,3,0.0853,True,30,1d318b04-2df5-42d0-81ff-2ef443637c00.png
+805e07c2-6424-4868-90a6-eb48bd84fcf2,Stridex Sandale Récupération,sports,sportswear,86.96,2,0.0797,False,20,805e07c2-6424-4868-90a6-eb48bd84fcf2.png
+8ebdba38-43a7-42ae-9f0c-368685beb784,Kinexa Balance Board,sports,fitness_equipment,542.36,4,0.0521,False,0,8ebdba38-43a7-42ae-9f0c-368685beb784.png
+f3eac40d-da0e-4deb-8583-c35997e175b9,Kinexa Lunettes Sport Polarisées,sports,outdoor_gear,693.85,4,0.1078,False,10,f3eac40d-da0e-4deb-8583-c35997e175b9.png
+73052300-430c-4794-baab-06eb2422bbd4,Vexor Jersey Vélo Aéro,sports,sportswear,167.28,2,0.1318,False,10,73052300-430c-4794-baab-06eb2422bbd4.png
+1817e62e-20eb-4355-84a8-6a8323ee644f,Kinexa Rocker Board,sports,fitness_equipment,1200.0,4,0.0838,False,0,1817e62e-20eb-4355-84a8-6a8323ee644f.png
+d577c25e-22ca-4568-96ff-19a48bdb31df,Kinexa Casque VTT MIPS,sports,outdoor_gear,660.63,4,0.0642,False,0,d577c25e-22ca-4568-96ff-19a48bdb31df.png
+1a41bcfc-e1ed-42f7-9d57-ddf1fd65adca,Vexor Short Cyclisme Gel,sports,sportswear,157.94,2,0.0865,False,0,1a41bcfc-e1ed-42f7-9d57-ddf1fd65adca.png
+b0d1672b-c66a-49f3-9204-2b7146830cec,Pulsar Vélo Appartement,sports,fitness_equipment,1200.0,4,0.0987,True,30,b0d1672b-c66a-49f3-9204-2b7146830cec.png
+e16d65cc-7ff1-4f52-bc28-67fc5906b827,Vexor Chaussures SPD VTT,sports,outdoor_gear,491.68,3,0.0428,True,0,e16d65cc-7ff1-4f52-bc28-67fc5906b827.png
+4dfdb395-3aa2-472f-bd00-fc5313db97ab,Vexor Gants Vélo Été,sports,sportswear,184.52,2,0.113,True,0,4dfdb395-3aa2-472f-bd00-fc5313db97ab.png
+33b0adfe-74ee-4d32-9375-dafdd334a412,Pulsar Rameur Compact,sports,fitness_equipment,550.65,4,0.0589,True,10,33b0adfe-74ee-4d32-9375-dafdd334a412.png
+26ab026f-b5f2-4072-b59d-d6fed7d163c0,Vexor Selle Ergonomique,sports,outdoor_gear,423.63,3,0.0941,False,0,26ab026f-b5f2-4072-b59d-d6fed7d163c0.png
+0e0f7108-5079-412b-90a6-836ad7deb365,Endura Bonnet Silicone,sports,sportswear,100.24,2,0.0608,False,0,0e0f7108-5079-412b-90a6-836ad7deb365.png
+b4418fe0-e6ef-44a2-a96d-ff2f17b90533,Stridex Tapis de Course Pliable,sports,fitness_equipment,921.09,4,0.1155,False,0,b4418fe0-e6ef-44a2-a96d-ff2f17b90533.png
+2213466e-6d15-47c8-b100-27d65d6b4f8d,Endura Combinaison Natation,sports,outdoor_gear,257.47,3,0.0762,False,0,2213466e-6d15-47c8-b100-27d65d6b4f8d.png
+a4a7e788-f4cd-46e5-9c84-0258754b388e,Endura Pull-buoy Pro,sports,sportswear,181.19,2,0.0795,False,20,a4a7e788-f4cd-46e5-9c84-0258754b388e.png
+87c7fe98-b0c6-4987-97f9-12b67de8912c,Stridex Elliptique Mini,sports,fitness_equipment,574.48,4,0.1055,False,0,87c7fe98-b0c6-4987-97f9-12b67de8912c.png
+7368a169-7008-4139-964c-78e24c43f6c2,Endura Lunettes Piscine Anti-buée,sports,outdoor_gear,659.01,4,0.0565,False,0,7368a169-7008-4139-964c-78e24c43f6c2.png
+16d0a224-e32c-4461-9df4-b336ae9a66ba,Forza Débardeur Technique,sports,sportswear,178.92,2,0.0648,False,0,16d0a224-e32c-4461-9df4-b336ae9a66ba.png
+f0784f9b-bd37-463b-8cc7-53f91de02d7e,Altiva Balance Connectée,sports,fitness_equipment,1200.0,4,0.1006,False,0,f0784f9b-bd37-463b-8cc7-53f91de02d7e.png
+96c23f2f-052f-428c-a31c-00547826ba31,Pulsar Raquette Padel Carbon,sports,outdoor_gear,552.55,4,0.1391,False,0,96c23f2f-052f-428c-a31c-00547826ba31.png
+8cc2885b-936c-411e-a397-759c835d5c0a,Forza Collant Thermique,sports,sportswear,70.65,1,0.0911,True,20,8cc2885b-936c-411e-a397-759c835d5c0a.png
+71e0b4c3-be68-4967-96e9-71f6fa45896b,Altiva Chronomètre Multifonction,sports,fitness_equipment,603.62,4,0.1465,True,30,71e0b4c3-be68-4967-96e9-71f6fa45896b.png
+82ac80fc-1e3c-446e-8ef0-7cb3c6b0aac0,Pulsar Sac Raquette 2 Poches,sports,outdoor_gear,258.12,3,0.0474,False,10,82ac80fc-1e3c-446e-8ef0-7cb3c6b0aac0.png
+f7a7e6ae-5347-4e20-9178-2b0d0fd20a5d,Altiva Veste Imperméable Trail,sports,sportswear,107.69,2,0.0333,False,10,f7a7e6ae-5347-4e20-9178-2b0d0fd20a5d.png
+9a0186ba-bd81-4d7d-9f4f-73353f583fc8,Lumière Douce Sérum Vitamine C,beauty,skincare,173.88,2,0.088,False,10,9a0186ba-bd81-4d7d-9f4f-73353f583fc8.png
+a1570c66-e8e9-4e7d-9a4c-e171ff7297e1,Elixar Rouge à Lèvres Longue Tenue,beauty,makeup,82.59,2,0.1556,False,0,a1570c66-e8e9-4e7d-9a4c-e171ff7297e1.png
+25dd84b7-bb97-4c4d-a2f7-bc2441f79035,Florea Shampoing Éclat Couleur,beauty,haircare,40.83,1,0.1359,False,30,25dd84b7-bb97-4c4d-a2f7-bc2441f79035.png
+1549853a-6302-446e-be7b-4e39af8bf347,Lumière Douce Crème Éclat SPF30,beauty,skincare,63.33,1,0.1805,False,10,1549853a-6302-446e-be7b-4e39af8bf347.png
+c4b8663e-ca26-4fed-8fd4-048bdc416894,Elixar Gloss Volumateur,beauty,makeup,64.84,1,0.1212,False,10,c4b8663e-ca26-4fed-8fd4-048bdc416894.png
+706ddffe-73fb-45f3-859c-780145ab812e,Florea Après-Shampoing Nutritif,beauty,haircare,33.19,1,0.1191,False,20,706ddffe-73fb-45f3-859c-780145ab812e.png
+08415990-af49-41e5-a1c7-4ee68055e61d,Lumière Douce Huile Rose Musquée,beauty,skincare,72.63,1,0.1756,False,10,08415990-af49-41e5-a1c7-4ee68055e61d.png
+bd8bf501-9acb-44ca-ba4d-d36771271bf9,Elixar Palette Yeux Nude,beauty,makeup,72.51,1,0.1244,False,10,bd8bf501-9acb-44ca-ba4d-d36771271bf9.png
+4b5355e7-49b7-446d-9849-a320cf89320b,Florea Masque Kératine,beauty,haircare,85.72,2,0.1244,True,0,4b5355e7-49b7-446d-9849-a320cf89320b.png
+75934a7e-2b94-4403-8f2f-383bf73cdce6,Lumière Douce Masque Nuit Réparateur,beauty,skincare,121.19,2,0.1052,False,0,75934a7e-2b94-4403-8f2f-383bf73cdce6.png
+24cd9d76-27e0-41ea-98d7-0516f2961490,Elixar Mascara Recourbant,beauty,makeup,25.59,1,0.0893,False,0,24cd9d76-27e0-41ea-98d7-0516f2961490.png
+7e9c6ca2-fd4b-4b47-8a00-2f0a5d670340,Florea Sérum Anti-Frisottis,beauty,haircare,60.99,1,0.1622,False,20,7e9c6ca2-fd4b-4b47-8a00-2f0a5d670340.png
+21d306e3-dbbe-4e4d-9753-930eb4260c22,Lumière Douce Eau Micellaire,beauty,skincare,97.78,2,0.1322,True,10,21d306e3-dbbe-4e4d-9753-930eb4260c22.png
+bd4cb52a-8348-4668-9b38-b59e04b55c5d,Elixar Eyeliner Précision,beauty,makeup,75.52,2,0.1352,False,0,bd4cb52a-8348-4668-9b38-b59e04b55c5d.png
+deec1e42-2962-45f9-9d1e-abd7ec55b759,Florea Spray Thermoprotecteur,beauty,haircare,100.0,2,0.0932,False,10,deec1e42-2962-45f9-9d1e-abd7ec55b759.png
+46a8260c-ac78-4b38-b0a3-85d56b83183d,Lumière Douce Contour Yeux Liftant,beauty,skincare,41.62,1,0.1194,False,10,46a8260c-ac78-4b38-b0a3-85d56b83183d.png
+4ede6c7d-e64b-486c-bfb4-7090557548e4,Elixar Blush Crème,beauty,makeup,50.52,1,0.1773,False,10,4ede6c7d-e64b-486c-bfb4-7090557548e4.png
+458234a8-6fbb-4624-beec-bca227b60214,Florea Huile Argan Brillance,beauty,haircare,68.4,1,0.1818,False,20,458234a8-6fbb-4624-beec-bca227b60214.png
+66eec1d1-01ce-4eca-aed8-b18edd69c0f2,Novea Gel Nettoyant Pores,beauty,skincare,50.46,1,0.1579,False,20,66eec1d1-01ce-4eca-aed8-b18edd69c0f2.png
+653deaaf-6922-4a7f-b061-dc158b20b065,Elixar Highlighter Poudre,beauty,makeup,115.5,2,0.1503,False,10,653deaaf-6922-4a7f-b061-dc158b20b065.png
+6adcd699-7712-4f59-9a02-0aa10a73ac26,Florea Cure Repousse,beauty,haircare,62.57,1,0.1136,False,20,6adcd699-7712-4f59-9a02-0aa10a73ac26.png
+1c9532ec-798f-452d-a2c6-6f337b696c81,Novea Lotion Toning BHA,beauty,skincare,133.29,2,0.1218,False,10,1c9532ec-798f-452d-a2c6-6f337b696c81.png
+99f74a12-a8e9-423f-9481-55270aba562e,Elixar Fond de Teint Éclat,beauty,makeup,50.93,1,0.1277,False,0,99f74a12-a8e9-423f-9481-55270aba562e.png
+3a13dccb-7def-4863-88c9-8183a7b95abe,Florea Baume Pointes Sèches,beauty,haircare,74.78,1,0.1389,True,10,3a13dccb-7def-4863-88c9-8183a7b95abe.png
+94cb13a0-567e-4d34-8b55-d79313d73dc1,Novea Sérum Acide Hyaluronique,beauty,skincare,145.66,2,0.0913,True,20,94cb13a0-567e-4d34-8b55-d79313d73dc1.png
+9654a0e5-b75c-4120-9771-56dea1925e6c,Mira BB Crème Multi-Usage,beauty,makeup,70.25,1,0.1123,False,0,9654a0e5-b75c-4120-9771-56dea1925e6c.png
+649335e7-f6ab-46ff-97c5-70d36bb12f8f,Novea Shampoing Purifiant,beauty,haircare,59.31,1,0.126,False,0,649335e7-f6ab-46ff-97c5-70d36bb12f8f.png
+4b9e10c1-b832-491f-a84f-dcbf4ed66b20,Novea Crème Barrière Céramide,beauty,skincare,105.85,2,0.174,False,10,4b9e10c1-b832-491f-a84f-dcbf4ed66b20.png
+620e3887-7839-405b-9446-f8789c36008f,Mira Poudre Libre Translucide,beauty,makeup,45.31,1,0.1403,True,0,620e3887-7839-405b-9446-f8789c36008f.png
+a9921903-15c9-474e-9ea1-423632641958,Novea Masque Hydratation Intense,beauty,haircare,50.91,1,0.1721,False,0,a9921903-15c9-474e-9ea1-423632641958.png
+64042f3c-c2d1-4cd0-8214-9168588ad748,Novea Masque Argile Kaolin,beauty,skincare,89.38,2,0.1535,False,20,64042f3c-c2d1-4cd0-8214-9168588ad748.png
+6d747174-bb0f-4afb-a21e-c8908248e2f8,Mira Crayon Kajal Intense,beauty,makeup,74.61,1,0.1535,False,30,6d747174-bb0f-4afb-a21e-c8908248e2f8.png
+a668f999-6626-4afb-93da-35462039f6d0,Aûra Huile Sèche Dorée,beauty,haircare,80.55,2,0.1701,False,20,a668f999-6626-4afb-93da-35462039f6d0.png
+610e51c0-46ac-4494-8770-aa21db9ce943,Novea Essence Fermeté,beauty,skincare,62.21,1,0.1215,False,0,610e51c0-46ac-4494-8770-aa21db9ce943.png
+49d52777-604f-4c45-addd-0bddf56bd220,Mira Stick Correcteur SPF20,beauty,makeup,60.88,1,0.1427,False,30,49d52777-604f-4c45-addd-0bddf56bd220.png
+5bc830d3-29f8-4900-a849-37c67735503c,Aûra Savon Artisanal Lavande,beauty,haircare,97.67,2,0.106,False,20,5bc830d3-29f8-4900-a849-37c67735503c.png
+324b1c08-656e-4cd6-a39e-b0202c22a97c,Elixar Base Lissante,beauty,skincare,70.56,1,0.165,False,20,324b1c08-656e-4cd6-a39e-b0202c22a97c.png
+29a9e56a-96eb-4cb7-b6ec-2dc9d086b2e3,Lumière Douce Baume Lèvres Nourrissant,beauty,makeup,46.06,1,0.1891,True,0,29a9e56a-96eb-4cb7-b6ec-2dc9d086b2e3.png
+c14ad760-e5c2-49a4-b6e9-4618aab852ad,Mira Laque Fixation Forte,beauty,haircare,58.55,1,0.1739,False,10,c14ad760-e5c2-49a4-b6e9-4618aab852ad.png
+5b3d88ef-8cec-4bc5-b984-50cffa92bf8c,Elixar Correcteur Imperfections,beauty,skincare,133.17,2,0.1159,False,10,5b3d88ef-8cec-4bc5-b984-50cffa92bf8c.png
+58fcbef6-8402-498d-af7c-ebcf9b92624a,Lumière Douce Brume Fixatrice,beauty,makeup,64.29,1,0.1143,False,0,58fcbef6-8402-498d-af7c-ebcf9b92624a.png
+34d96fcb-5348-4658-b1e6-2d3cc70d067c,Mira Crème Coiffante,beauty,haircare,91.89,2,0.1489,False,0,34d96fcb-5348-4658-b1e6-2d3cc70d067c.png
+094dbf1c-e833-4273-9d1d-f52e8abcb3ec,Aûra Gel Douche Beurre Karité,beauty,skincare,133.83,2,0.1899,True,20,094dbf1c-e833-4273-9d1d-f52e8abcb3ec.png
+acf44847-0c2c-44aa-a4cf-890d0223c048,Novea Spray Fixateur Teint,beauty,makeup,89.62,2,0.16,False,20,acf44847-0c2c-44aa-a4cf-890d0223c048.png
+33fc0f60-e0bf-4f7d-b890-d334c759702a,Lumière Douce Sérum Cuir Chevelu,beauty,haircare,67.4,1,0.1538,False,0,33fc0f60-e0bf-4f7d-b890-d334c759702a.png
+f7562fec-d688-4bc4-9862-9e66e23b9ca5,Aûra Exfoliant Corps Café,beauty,skincare,180.0,2,0.1226,True,0,f7562fec-d688-4bc4-9862-9e66e23b9ca5.png
+95bc2470-1223-47a5-b337-c42f7ee96c8d,Petal Lab Vernis Longue Durée,beauty,makeup,58.96,1,0.2074,False,0,95bc2470-1223-47a5-b337-c42f7ee96c8d.png
+6d4da9b7-d8d9-43f5-9766-1c0c6e09f31e,Petal Lab Brosse Démêlante,beauty,haircare,24.23,0,0.1086,False,10,6d4da9b7-d8d9-43f5-9766-1c0c6e09f31e.png
+4c3b30a5-1dc8-4f64-b1f0-9e7004e903eb,Petal Lab Crème Mains Intensive,beauty,skincare,180.0,2,0.1192,False,0,4c3b30a5-1dc8-4f64-b1f0-9e7004e903eb.png
+4b02639f-089c-4410-ab01-f465cb6eeee6,Petal Lab Dissolvant Sans Acétone,beauty,makeup,53.29,1,0.1542,False,30,4b02639f-089c-4410-ab01-f465cb6eeee6.png
+72f2bc48-2ed6-4a64-b5b2-7b25518e04f0,L'Année des Hasards — Roman,books,fiction,22.45,0,0.1062,False,0,72f2bc48-2ed6-4a64-b5b2-7b25518e04f0.png
+62c1fa86-5069-4927-9982-506d2eb23b94,Penser Autrement — Essai,books,non-fiction,60.0,1,0.0759,False,0,62c1fa86-5069-4927-9982-506d2eb23b94.png
+e444428a-da60-4884-b4ec-852f2a30f3f8,Les Aventures de Titouan — Tome 1,books,children_books,9.48,0,0.0787,False,20,e444428a-da60-4884-b4ec-852f2a30f3f8.png
+e3c7fe76-1a18-4025-9520-beee121b6d08,La Dernière Frontière — Thriller,books,fiction,13.03,0,0.01,False,30,e3c7fe76-1a18-4025-9520-beee121b6d08.png
+c732a40e-c583-4cb3-9d98-5926fad9591a,Le Pouvoir des Habitudes,books,non-fiction,18.97,0,0.0182,False,0,c732a40e-c583-4cb3-9d98-5926fad9591a.png
+be19cefa-abea-4f62-b963-694b2d17a39d,La Forêt Magique — Album,books,children_books,13.1,0,0.0546,False,20,be19cefa-abea-4f62-b963-694b2d17a39d.png
+27c0353a-e53c-4422-bf1a-b2e20cbc2909,Ce Que Nous Laissons — Fiction,books,fiction,25.63,1,0.0194,True,0,27c0353a-e53c-4422-bf1a-b2e20cbc2909.png
+6bc86089-3a63-4fb6-8947-5b33339e9d4b,Économie du Vivant,books,non-fiction,44.4,1,0.1056,False,10,6bc86089-3a63-4fb6-8947-5b33339e9d4b.png
+077136ab-6bf0-4fbc-ac62-bf101e0d4770,Petit Dragon Apprend à Voler,books,children_books,20.1,0,0.0661,False,0,077136ab-6bf0-4fbc-ac62-bf101e0d4770.png
+ef683256-f6b2-46f7-9947-00d57de6beb0,Le Cartographe des Songes,books,fiction,12.22,0,0.057,False,0,ef683256-f6b2-46f7-9947-00d57de6beb0.png
+a174f8c8-1dce-4c0c-96af-842aeac00d84,Guide du Leadership Conscient,books,non-fiction,14.29,0,0.047,False,20,a174f8c8-1dce-4c0c-96af-842aeac00d84.png
+be6b7f6f-1016-4e98-95f8-676590fa96c6,Le Grand Livre des Dinosaures,books,children_books,18.4,0,0.0991,False,0,be6b7f6f-1016-4e98-95f8-676590fa96c6.png
+570c1cc0-3615-43b2-918a-fb1d3783f537,Sous les Pierres Bleues — Récit,books,fiction,17.8,0,0.0183,False,20,570c1cc0-3615-43b2-918a-fb1d3783f537.png
+c3c03d5a-c6ad-44e2-88f3-76de8aa50aab,Philosophie pour Non-Philosophes,books,non-fiction,43.26,1,0.0395,False,10,c3c03d5a-c6ad-44e2-88f3-76de8aa50aab.png
+e945a459-0303-4629-afae-15ddb2c3c57e,Mes Premières Histoires du Soir,books,children_books,23.83,0,0.0345,False,20,e945a459-0303-4629-afae-15ddb2c3c57e.png
+6b3c9738-8289-433f-89f2-a01753147026,Les Saisons Inversées,books,fiction,22.72,0,0.0542,False,0,6b3c9738-8289-433f-89f2-a01753147026.png
+5d2a05ac-0eae-4631-9c03-b063bb647f04,Dictionnaire des Biais Cognitifs,books,non-fiction,48.79,1,0.0918,False,0,5d2a05ac-0eae-4631-9c03-b063bb647f04.png
+3ce76b83-59a6-4cd4-ad76-fbf70b167d5a,L'École des Héros — Roman Junior,books,children_books,19.73,0,0.0565,False,0,3ce76b83-59a6-4cd4-ad76-fbf70b167d5a.png
+9f2a1ae9-f9f5-4546-ad08-d24c71f83d5e,Une Femme Presque Libre,books,fiction,26.58,1,0.0519,False,0,9f2a1ae9-f9f5-4546-ad08-d24c71f83d5e.png
+0eb535af-99ba-49e6-9cf6-d5a4d2f2e1d1,Réinventer Son Quotidien,books,non-fiction,27.16,1,0.111,False,0,0eb535af-99ba-49e6-9cf6-d5a4d2f2e1d1.png
+8fff21cb-3494-42a4-8c09-00f7031fcb92,Atlas du Monde pour Enfants,books,children_books,16.75,0,0.1392,False,20,8fff21cb-3494-42a4-8c09-00f7031fcb92.png
+819b7110-a627-4605-a37a-64b41abce9c5,La Musique des Sphères — Roman,books,fiction,23.26,0,0.0817,False,0,819b7110-a627-4605-a37a-64b41abce9c5.png
+659cc6c3-8b9f-4c72-97e0-ad9dcd8d8bd5,Minimalisme Actif,books,non-fiction,49.99,1,0.0791,False,20,659cc6c3-8b9f-4c72-97e0-ad9dcd8d8bd5.png
+b04407a3-f4f2-4fe2-b138-1ff18fafdcea,Le Petit Scientifique Curieux,books,children_books,15.38,0,0.0866,False,0,b04407a3-f4f2-4fe2-b138-1ff18fafdcea.png
+6d67403f-2362-40d5-8f84-d10aeb865240,L'Ombre Portée — Poche,books,fiction,26.48,1,0.0899,False,0,6d67403f-2362-40d5-8f84-d10aeb865240.png
+1b0e7f3b-83b3-40e2-803f-4dd0806133ce,Finance Personnelle Simplifiée,books,non-fiction,32.37,1,0.0947,False,0,1b0e7f3b-83b3-40e2-803f-4dd0806133ce.png
+54e4f8c2-768a-4ac0-8c99-cd112d066109,Contes des 1001 Nuits Illustrés,books,children_books,17.17,0,0.0594,False,20,54e4f8c2-768a-4ac0-8c99-cd112d066109.png
+db7d7499-d542-4497-8a05-b5f95550ef10,Le Temps des Cerises — Roman,books,fiction,29.96,1,0.0503,False,10,db7d7499-d542-4497-8a05-b5f95550ef10.png
+5b3f3d74-83e7-4835-84c7-de8d1d591b43,Neurosciences pour Tous,books,non-fiction,16.22,0,0.0633,True,10,5b3f3d74-83e7-4835-84c7-de8d1d591b43.png
+4299cc93-25cc-461c-8579-794bc95a896e,Ma Première Encyclopédie,books,children_books,10.72,0,0.01,False,30,4299cc93-25cc-461c-8579-794bc95a896e.png
+1742a526-edf6-4c92-a9a2-7ff5b69fe6bf,Contes Modernes pour Adultes,books,fiction,11.88,0,0.0878,False,0,1742a526-edf6-4c92-a9a2-7ff5b69fe6bf.png
+1f5dc4d5-b0c4-4f5a-8892-90aa74184185,Comprendre le Changement Climatique,books,non-fiction,14.16,0,0.0506,False,10,1f5dc4d5-b0c4-4f5a-8892-90aa74184185.png
+300b5559-493c-4ce9-9d33-97e10ede2a2c,Les Animaux de la Ferme — Imagier,books,children_books,13.72,0,0.0268,False,0,300b5559-493c-4ce9-9d33-97e10ede2a2c.png
+58b1597a-ab59-4908-a001-4ede8b5e8276,La Fille du Phare — Thriller,books,fiction,29.02,1,0.0376,True,20,58b1597a-ab59-4908-a001-4ede8b5e8276.png
+7823eb6a-442d-4e49-979c-aae701cb8cb8,Le Langage du Corps Décrypté,books,non-fiction,32.12,1,0.028,False,30,7823eb6a-442d-4e49-979c-aae701cb8cb8.png
+cfa7dee2-8f76-4914-8985-f8009429dd00,Apprendre à Compter avec Léo,books,children_books,19.48,0,0.0845,True,20,cfa7dee2-8f76-4914-8985-f8009429dd00.png
+88bde5df-0a13-48c3-9792-8a5e2eaa1dca,Minuit à Paris — Roman,books,fiction,33.24,1,0.1012,False,0,88bde5df-0a13-48c3-9792-8a5e2eaa1dca.png
+a587c2c2-1234-4f61-9fac-8231e809d675,Histoire de l'Art Condensée,books,non-fiction,60.0,1,0.0608,False,20,a587c2c2-1234-4f61-9fac-8231e809d675.png
+57fce8d4-21cb-4975-bf05-efbd5ab4deee,La Magie des Couleurs — Album,books,children_books,17.51,0,0.0665,False,20,57fce8d4-21cb-4975-bf05-efbd5ab4deee.png
+0e5fc096-a4d5-4786-bd18-ebe52e5c0aa1,Le Roman du Siècle,books,fiction,35.0,1,0.0364,True,30,0e5fc096-a4d5-4786-bd18-ebe52e5c0aa1.png
+1b4bff1a-f385-4934-bb92-6119b0e0d619,Jardinage Urbain Débutant,books,non-fiction,37.35,1,0.0967,False,0,1b4bff1a-f385-4934-bb92-6119b0e0d619.png
+f56a4aa2-57b6-44df-ba34-468eede3fe24,Tchoupi et ses Amis,books,children_books,12.88,0,0.0501,False,0,f56a4aa2-57b6-44df-ba34-468eede3fe24.png
+05d98d11-7ffc-4b9c-a7b7-e680e16cfe15,L'Île aux Secrets — Mystère,books,fiction,16.95,0,0.0626,False,0,05d98d11-7ffc-4b9c-a7b7-e680e16cfe15.png
+1073467e-2922-480f-a667-f7b567825547,Méditation de Pleine Conscience,books,non-fiction,19.91,0,0.0372,False,0,1073467e-2922-480f-a667-f7b567825547.png
+81c03163-d865-4f69-b54b-1a2b93d27b14,Mon Cahier de Jeux 6-8 ans,books,children_books,12.62,0,0.0552,False,30,81c03163-d865-4f69-b54b-1a2b93d27b14.png
+e8c92fd5-b290-49e0-ae44-5e7d1de8597b,Terroir & Co Chips Légumes Bio,food,snacks,9.53,0,0.1175,False,30,e8c92fd5-b290-49e0-ae44-5e7d1de8597b.png
+c2b69c4b-b09c-4600-9032-34d5056240a7,L'Épicurien Thé Darjeeling FTGFOP,food,beverages,26.2,1,0.0907,False,30,c2b69c4b-b09c-4600-9032-34d5056240a7.png
+37b5c1c4-1643-4680-ba05-50615d782f2a,Terroir & Co Huile Olive AOP,food,gourmet_foods,100.0,2,0.1268,False,20,37b5c1c4-1643-4680-ba05-50615d782f2a.png
+e5010cc2-dbb7-412d-97b9-3de235d44d5a,Terroir & Co Mélange Noix Premium,food,snacks,6.33,0,0.0939,False,30,e5010cc2-dbb7-412d-97b9-3de235d44d5a.png
+42b5f424-dada-4497-a50e-3b2622a30495,L'Épicurien Café Single Origin Éthiopie,food,beverages,22.23,0,0.0673,True,30,42b5f424-dada-4497-a50e-3b2622a30495.png
+ec407c97-14f0-44d5-bc54-886f1ca78470,Terroir & Co Miel de Châtaignier,food,gourmet_foods,35.61,1,0.1063,False,0,ec407c97-14f0-44d5-bc54-886f1ca78470.png
+4da4596b-1fd1-4fa1-a3fd-8792a02f619d,Maison Dulac Chocolat Noir 85%,food,snacks,13.3,0,0.1354,False,0,4da4596b-1fd1-4fa1-a3fd-8792a02f619d.png
+84909992-ef38-4212-9e3e-2834921b3de9,L'Épicurien Infusion Hibiscus Rose,food,beverages,18.03,0,0.111,False,0,84909992-ef38-4212-9e3e-2834921b3de9.png
+825f9723-6cca-4273-8097-2350feba3290,Terroir & Co Confiture Figue Noix,food,gourmet_foods,25.96,1,0.0836,False,10,825f9723-6cca-4273-8097-2350feba3290.png
+b89a30ac-86bd-42fe-83f8-6e1baec66e8a,Maison Dulac Praliné Noisette,food,snacks,15.95,0,0.0942,False,0,b89a30ac-86bd-42fe-83f8-6e1baec66e8a.png
+0391e212-b533-4b4b-be90-48c3dd6fb5ee,L'Épicurien Matcha Cérémoniel,food,beverages,14.92,0,0.117,False,0,0391e212-b533-4b4b-be90-48c3dd6fb5ee.png
+008cc9a9-28b0-4b5e-8069-14f924993adf,Terroir & Co Fleur de Sel Guérande,food,gourmet_foods,43.62,1,0.0965,False,30,008cc9a9-28b0-4b5e-8069-14f924993adf.png
+99f2641c-ab00-41ce-815b-db6da24f34b0,Maison Dulac Guimauves Artisanales,food,snacks,7.17,0,0.0968,False,30,99f2641c-ab00-41ce-815b-db6da24f34b0.png
+2dfd9843-9350-426f-ad60-1d90dc4f7706,L'Épicurien Chai Épicé Premium,food,beverages,14.62,0,0.1499,True,10,2dfd9843-9350-426f-ad60-1d90dc4f7706.png
+e60d3f96-9490-4e50-b595-1330e342ec10,Terroir & Co Vinaigre Balsamique 12 ans,food,gourmet_foods,64.08,1,0.1133,False,0,e60d3f96-9490-4e50-b595-1330e342ec10.png
+f74e523e-5519-4834-9719-d1d00dacf91e,Kumquat Barres Céréales Maison,food,snacks,10.2,0,0.067,False,30,f74e523e-5519-4834-9719-d1d00dacf91e.png
+b407ab64-e0d3-4365-b47e-324a930bfc26,L'Épicurien Coffret Thés du Monde,food,beverages,21.67,0,0.1052,False,10,b407ab64-e0d3-4365-b47e-324a930bfc26.png
+30ff9470-e22c-4806-b2e6-cd9489b751bc,Bocal d'Or Soupe Potimarron,food,gourmet_foods,62.41,1,0.1163,False,10,30ff9470-e22c-4806-b2e6-cd9489b751bc.png
+36d062a1-f621-4f96-a134-4af8aca5c881,Saveur Brute Crackers Seigle,food,snacks,18.66,0,0.1332,False,20,36d062a1-f621-4f96-a134-4af8aca5c881.png
+b7bcd1e5-c65e-466d-a7f2-90fdde644c6a,Kumquat Sirop Yuzu Gingembre,food,beverages,16.57,0,0.1381,True,30,b7bcd1e5-c65e-466d-a7f2-90fdde644c6a.png
+59e9f3de-bc73-4f5c-b164-b8ed40fe366f,Bocal d'Or Rillettes de Canard,food,gourmet_foods,29.91,1,0.1363,False,0,59e9f3de-bc73-4f5c-b164-b8ed40fe366f.png
+9b88e8b5-2b9c-4ea1-9168-a61211ca9875,Saveur Brute Popcorn Truffe,food,snacks,16.86,0,0.1366,False,0,9b88e8b5-2b9c-4ea1-9168-a61211ca9875.png
+5a6ea577-71e6-407e-9bfe-ff4d9484fb02,Kumquat Sirop de Violette,food,beverages,16.64,0,0.0617,True,0,5a6ea577-71e6-407e-9bfe-ff4d9484fb02.png
+0819927c-0b57-4cd8-a2df-1105977f08f3,Bocal d'Or Cassoulet Artisanal,food,gourmet_foods,84.34,2,0.092,False,30,0819927c-0b57-4cd8-a2df-1105977f08f3.png
+cf1e2048-d8a3-41f3-b82b-77e3825df3e7,L'Épicurien Biscuits Sablés Bretons,food,snacks,12.82,0,0.1396,False,20,cf1e2048-d8a3-41f3-b82b-77e3825df3e7.png
+91dfd71a-a412-4f5f-85d6-42147be32f38,Terroir & Co Tisane Détox Bio,food,beverages,18.03,0,0.1502,False,0,91dfd71a-a412-4f5f-85d6-42147be32f38.png
+9180621d-a337-4395-8353-b6542f783fd0,Bocal d'Or Boeuf Bourguignon,food,gourmet_foods,62.08,1,0.1289,False,0,9180621d-a337-4395-8353-b6542f783fd0.png
+40d18b75-0c81-4c53-b32d-36ada3e36021,Terroir & Co Olives Marinées,food,snacks,20.0,0,0.0923,False,10,40d18b75-0c81-4c53-b32d-36ada3e36021.png
+73f2f754-5784-4bce-b8ce-6507e4f5fa0b,Saveur Brute Kombucha Gingembre,food,beverages,35.0,1,0.0975,False,0,73f2f754-5784-4bce-b8ce-6507e4f5fa0b.png
+670eb780-8978-494f-8dab-d65ec174a1ac,Saveur Brute Épices Ras el Hanout,food,gourmet_foods,55.52,1,0.095,False,10,670eb780-8978-494f-8dab-d65ec174a1ac.png
+7faf2970-9756-4d54-b647-46d8662ba736,Bocal d'Or Tapenade Noire,food,snacks,11.73,0,0.1191,False,0,7faf2970-9756-4d54-b647-46d8662ba736.png
+60ed3b2f-b8d6-46ab-a98f-c76705d0aacd,Bocal d'Or Jus Pressé à Froid,food,beverages,29.22,1,0.1217,True,0,60ed3b2f-b8d6-46ab-a98f-c76705d0aacd.png
+033c11e3-c3f0-48ba-bdd0-e028fb9ebd0b,Saveur Brute Sauce Pimentée,food,gourmet_foods,38.5,1,0.0736,False,20,033c11e3-c3f0-48ba-bdd0-e028fb9ebd0b.png
+5ad371ea-98e4-487e-9969-9c007de3f00c,Bocal d'Or Anchoïade Provençale,food,snacks,12.57,0,0.1423,False,10,5ad371ea-98e4-487e-9969-9c007de3f00c.png
+ebb3e5ab-f1f1-45df-9ff6-c475b99aec16,Maison Dulac Cacao Chaud Premium,food,beverages,18.8,0,0.1322,False,0,ebb3e5ab-f1f1-45df-9ff6-c475b99aec16.png
+7d2b9f37-97c5-49ab-9a80-a02c2c37b315,Saveur Brute Poivre de Timut,food,gourmet_foods,61.22,1,0.0807,False,30,7d2b9f37-97c5-49ab-9a80-a02c2c37b315.png
+58954440-b2dd-4e73-9d3e-f786f34ffd4e,Maison Dulac Tablette Yuzu,food,snacks,7.88,0,0.1237,False,0,58954440-b2dd-4e73-9d3e-f786f34ffd4e.png
+e880ea72-9b75-4bfd-82d1-243a65a3ae65,L'Épicurien Rooibos Vanille,food,beverages,10.06,0,0.1147,True,10,e880ea72-9b75-4bfd-82d1-243a65a3ae65.png
+7733208e-3292-432f-acc6-5366a150cc06,Saveur Brute Sel Fumé Hickory,food,gourmet_foods,23.57,0,0.0901,False,0,7733208e-3292-432f-acc6-5366a150cc06.png
+ea2f21f8-2c3e-4c2b-b02e-0417345c666e,Kumquat Fruits Secs Enrobés,food,snacks,7.04,0,0.1072,False,0,ea2f21f8-2c3e-4c2b-b02e-0417345c666e.png
+9eaab9b0-1f00-411a-97dc-7c61925b339e,Lunaris Jeu Coopératif Famille,toys_games,board_games,47.86,1,0.0825,True,20,9eaab9b0-1f00-411a-97dc-7c61925b339e.png
+97496bc0-cfe5-425b-bcc6-ac106607a383,Playkido Camion Pompiers Métal,toys_games,action_figures,71.15,1,0.0762,True,0,97496bc0-cfe5-425b-bcc6-ac106607a383.png
+256543b1-3e3a-4e61-9ace-eb7a8b95cebc,Lunaris Puzzle 1000p Paysage,toys_games,puzzles,80.0,2,0.1139,True,30,256543b1-3e3a-4e61-9ace-eb7a8b95cebc.png
+ab409a5e-d4e1-49ac-b901-28d9c841033c,Lunaris Escape Game Maison,toys_games,board_games,89.49,2,0.0819,False,10,ab409a5e-d4e1-49ac-b901-28d9c841033c.png
+eaa0ea66-3283-4185-86c8-8d0d241d2e41,Playkido Ferme Magnétique 3D,toys_games,action_figures,54.44,1,0.0892,False,30,eaa0ea66-3283-4185-86c8-8d0d241d2e41.png
+1eb3bfb2-f07d-400c-9e99-58e6a945c3ca,Lunaris Puzzle 500p Animaux,toys_games,puzzles,50.57,1,0.0802,False,0,1eb3bfb2-f07d-400c-9e99-58e6a945c3ca.png
+d3f4d197-7a14-48b6-9cd2-00d1b10cd18c,Lunaris Triomino Deluxe,toys_games,board_games,48.86,1,0.0914,False,0,d3f4d197-7a14-48b6-9cd2-00d1b10cd18c.png
+6f7b811e-572c-43df-a4fd-3a9d5785b048,Playkido Piste de Course 8,toys_games,action_figures,71.4,1,0.0865,False,0,6f7b811e-572c-43df-a4fd-3a9d5785b048.png
+e020e707-fd52-48c6-901d-2c2366df07e9,Brikko Bloc Bois 200 pièces,toys_games,puzzles,47.39,1,0.1154,False,0,e020e707-fd52-48c6-901d-2c2366df07e9.png
+a222afbe-e870-4ca1-8c46-020c29c9f097,Lunaris Jeu Stratégie 2 joueurs,toys_games,board_games,73.66,1,0.1275,False,0,a222afbe-e870-4ca1-8c46-020c29c9f097.png
+dfa9bfc3-6b47-4f64-9892-cd6fffd64540,Playkido Maison de Poupée Pliable,toys_games,action_figures,69.85,1,0.1013,False,20,dfa9bfc3-6b47-4f64-9892-cd6fffd64540.png
+fd50e09d-5612-486b-861b-de1430d402b0,Brikko Arche Équilibre,toys_games,puzzles,67.34,1,0.0709,True,10,fd50e09d-5612-486b-861b-de1430d402b0.png
+77aafb03-a491-455a-b028-d8fa76b8c39c,Lunaris Memory Animals,toys_games,board_games,36.42,1,0.0449,False,0,77aafb03-a491-455a-b028-d8fa76b8c39c.png
+244926fb-9f76-448a-8cf2-2b62449948d5,Brikko Train Magnétique 30 rails,toys_games,action_figures,80.2,2,0.0636,False,30,244926fb-9f76-448a-8cf2-2b62449948d5.png
+44fe004f-885c-4ed4-acbb-95742ac5881a,Brikko Nesting Toys Pastel,toys_games,puzzles,80.0,2,0.0886,False,10,44fe004f-885c-4ed4-acbb-95742ac5881a.png
+e85f7991-fb25-417c-9d39-6ce9581b8801,Zenjo Jeu de Go Enfants,toys_games,board_games,62.87,1,0.0426,False,10,e85f7991-fb25-417c-9d39-6ce9581b8801.png
+652de457-a0ce-4c4f-8c7d-fdce4ef9aa3f,Brikko Mini Citybuilder,toys_games,action_figures,141.93,2,0.1099,False,30,652de457-a0ce-4c4f-8c7d-fdce4ef9aa3f.png
+215a5c55-e5d4-4d42-9e24-f0eb8e2c4036,Woodo Puzzle Carte du Monde,toys_games,puzzles,45.64,1,0.1316,False,0,215a5c55-e5d4-4d42-9e24-f0eb8e2c4036.png
+aaacb155-5591-4e14-83b6-6fa750a93023,Zenjo Jeu d'Échecs Voyage,toys_games,board_games,72.54,1,0.1088,False,0,aaacb155-5591-4e14-83b6-6fa750a93023.png
+bdc152d3-e56d-43c1-ad5c-35401071ee2b,Woodo Marionnettes Bois 5 pièces,toys_games,action_figures,78.2,2,0.036,False,0,bdc152d3-e56d-43c1-ad5c-35401071ee2b.png
+d66780dc-05db-4864-97a0-560f035e0f63,Woodo Abaque Couleurs,toys_games,puzzles,41.1,1,0.0935,False,0,d66780dc-05db-4864-97a0-560f035e0f63.png
+09959246-53f2-4695-8957-cb64d3648b81,Zenjo Casse-tête Métal Niveau 5,toys_games,board_games,42.1,1,0.0828,False,20,09959246-53f2-4695-8957-cb64d3648b81.png
+89fbd8b1-5314-4086-9838-158f648910f1,Woodo Théâtre Guignol,toys_games,action_figures,95.03,2,0.0979,False,0,89fbd8b1-5314-4086-9838-158f648910f1.png
+d495b0e7-1744-4246-a9b2-9ef25779739b,Playkido Puzzle Éveil 24 pièces,toys_games,puzzles,31.3,1,0.1073,True,20,d495b0e7-1744-4246-a9b2-9ef25779739b.png
+fbf9b276-1023-4a95-8138-b4fb47bf5bb8,Playkido Jeu des 7 Familles,toys_games,board_games,75.04,2,0.1351,False,0,fbf9b276-1023-4a95-8138-b4fb47bf5bb8.png
+f5b40c6f-754c-4656-9b63-2e433dd04666,Funova Figurines Dinosaures 12p,toys_games,action_figures,123.49,2,0.0361,False,10,f5b40c6f-754c-4656-9b63-2e433dd04666.png
+c6fd879a-8ed7-476e-a62d-57fbc65d1c23,Playkido Puzzle 3D Château,toys_games,puzzles,50.95,1,0.0751,False,30,c6fd879a-8ed7-476e-a62d-57fbc65d1c23.png
+ee06a780-397a-4d4c-a483-3e8a3338cc2f,Playkido Loto Imagier,toys_games,board_games,51.28,1,0.0682,False,0,ee06a780-397a-4d4c-a483-3e8a3338cc2f.png
+8d5c8eb1-c3f6-4e12-a023-83a3b2e15b85,Funova Poupée Articulée,toys_games,action_figures,95.93,2,0.1303,False,0,8d5c8eb1-c3f6-4e12-a023-83a3b2e15b85.png
+d81f7ab7-c8a7-440c-81df-eca06d35f61e,Zenjo Casse-tête Bois Niveau 3,toys_games,puzzles,38.89,1,0.1408,False,0,d81f7ab7-c8a7-440c-81df-eca06d35f61e.png
+5ba7e8f2-653d-439e-81a0-be290b384405,Funova Quiz Famille 500 questions,toys_games,board_games,83.6,2,0.1179,False,30,5ba7e8f2-653d-439e-81a0-be290b384405.png
+0000c528-d74e-4ee2-b953-213eb4b22f44,Zenjo Robot Téléguidé,toys_games,action_figures,38.45,1,0.1201,False,10,0000c528-d74e-4ee2-b953-213eb4b22f44.png
+a675a510-bc88-4127-9404-284c8a2af9db,Tinker Play Microscope Enfant,toys_games,puzzles,38.47,1,0.1134,True,10,a675a510-bc88-4127-9404-284c8a2af9db.png
+3c346dc5-9891-4854-9b35-e74eb52fef65,Funova Jeu Rapidité Enfants,toys_games,board_games,25.93,1,0.1019,False,0,3c346dc5-9891-4854-9b35-e74eb52fef65.png
+62c1b98f-1664-4f2f-bc87-b392aff995fa,Tinker Play Drone Enfant 8+,toys_games,action_figures,43.99,1,0.1327,False,0,62c1b98f-1664-4f2f-bc87-b392aff995fa.png
