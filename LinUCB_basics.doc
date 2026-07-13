@@ -3,7 +3,9 @@ Here’s a **super simple, no-math explanation** of LinUCB for absolute beginner
 ---
 
 ### **What is LinUCB?**
-Imagine you’re at a **buffet with 10 dishes** you’ve never tried before. You want to find the **tastiest dish** as quickly as possible, but you don’t know which one it is. Here’s how LinUCB would help you decide:
+Imagine you’re at a **buffet with 10 dishes** you’ve never tried before. 
+You want to find the **tastiest dish** as quickly as possible, but you don’t know which one it is. 
+Here’s how LinUCB would help you decide:
 
 ---
 
