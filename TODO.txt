@@ -1,0 +1,23 @@
+- Deadline : 13  juil 2026
+
+
+
+- model
+    - context computation
+    - linUCB (init + update + action + save weights)
+
+- API
+    - get recommendation
+    - post reward
+
+
+
+
+
+
+
+
+Next :
+    - Users generation
+    - Behavior data generation
+    - 2 models coded (model + train + evaluate)

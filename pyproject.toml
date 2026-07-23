@@ -1,0 +1,19 @@
+[project]
+name = "rl-recsys"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.0",
+    "pandas>=3.0.3",
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.6.0",
+    "pytest>=9.1.1",
+    "requests>=2.34.2",
+    "ruff>=0.15.20",
+    "tqdm>=4.68.3",
+]
