@@ -7,17 +7,17 @@ app = FastAPI()
 async def main_page():
     return {"message": "Main page with recommandations and products selection"}
 
-@app.get("/get_product_click")
-async def get_product_click():
+@app.get("/get_product_click/{product_id}")
+async def get_product_click(product_id):
     """Modify context vector with the fact a product has been clicked on. 
     And return presentation page for the product"""
-    return {"message": "product_click"}
+    return {"message": f"product_click, {product_id}"}
 
-@app.get("/get_product_buy")
-async def get_product_buy():
+@app.get("/get_product_buy/{product_id}")
+async def get_product_buy(product_id):
     """Modify context vector with the fact a product has been bought. 
     And return to main page with 'thanks for purchase message'"""
-    return {"message": "product_bought"}
+    return {"message": f"product_bought, {product_id}"}
 
 @app.get("/get_lin_ucb")
 async def get_lin_ucb():
